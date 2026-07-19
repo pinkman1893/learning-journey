@@ -1,14 +1,13 @@
 {
   "schema_version": 1,
   "last_successful_scan": "2026-07-19T05:25:07Z",
-  "pilot_approved": false,
   "documents": {
     "yuque:doc:278100411": {
       "doc_id": 278100411,
       "updated_at": "2026-07-18T13:22:11.000Z",
       "content_hash": "f45092c1c7de060c58c0fbd87036611baa68e923dc36c9d69efbf77a0a5b1ff5",
-      "target_path": "computer-science/linux/2026-07-18-linux-terminal.md",
-      "status": "published_sample",
+      "target_path": "计算机基础/Linux/2026-07-18-Linux终端.md",
+      "status": "published",
       "image_count": 7
     },
     "yuque:doc:278066982": {
@@ -25,13 +24,5 @@
       "target_path": null,
       "status": "excluded_non_learning"
     }
-  },
-  "last_run_at": "2026-07-19T05:26:49Z",
-  "last_scan_counts": {
-    "changed_documents": 3,
-    "changed_notes": 0,
-    "published": 1,
-    "deferred": 1,
-    "excluded": 1
   }
 }

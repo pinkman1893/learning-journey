@@ -24,6 +24,6 @@
 <!-- BEGIN AUTO-GENERATED:YUQUE-SYNC -->
 ### 自动同步导航
 
-- [Linux 终端](computer-science/linux/2026-07-18-linux-terminal.md)
+- [Linux 终端](计算机基础/Linux/2026-07-18-Linux终端.md)
 
 <!-- END AUTO-GENERATED:YUQUE-SYNC -->
