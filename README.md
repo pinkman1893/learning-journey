@@ -20,3 +20,10 @@
 - 实时记录起点：大二下学期暑假
 - 历史内容：逐步补充大二以前的学习记录
 - 更新方式：持续整理与提交
+
+<!-- BEGIN AUTO-GENERATED:YUQUE-SYNC -->
+### 自动同步导航
+
+- [Linux 终端](computer-science/linux/2026-07-18-linux-terminal.md)
+
+<!-- END AUTO-GENERATED:YUQUE-SYNC -->
