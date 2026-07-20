@@ -71,6 +71,30 @@
       "target_path": "编程语言/C语言/2024-11-14-动态内存分配.md",
       "status": "published",
       "image_count": 1
+    },
+    "yuque:doc:194896713": {
+      "doc_id": 194896713,
+      "updated_at": "2024-12-24T22:33:31.000Z",
+      "content_hash": "3e2c426d9a52cb3b2e663499c8734a0a04a226a4d4f2334bc2f7cb69aeaa5082",
+      "target_path": "编程语言/C语言/2024-11-18-文件读写.md",
+      "status": "published",
+      "image_count": 2
+    },
+    "yuque:doc:195111626": {
+      "doc_id": 195111626,
+      "updated_at": "2024-11-19T12:26:18.000Z",
+      "content_hash": "6b6992e767d9c28b43151e4fdb3480ca21c1009e046261e13de322f15aeea81a",
+      "target_path": "编程语言/C++/2024-11-19-为何学习C++.md",
+      "status": "published",
+      "image_count": 0
+    },
+    "yuque:doc:195016471": {
+      "doc_id": 195016471,
+      "updated_at": "2025-02-22T07:08:28.000Z",
+      "content_hash": "3904b222c5b19ea1a1786d6ef5168afb82a34c936a332c30d944a9a5cdacf5e1",
+      "target_path": "编程语言/C++/2024-11-18-从C语言到C++的基础语法过渡.md",
+      "status": "published",
+      "image_count": 0
     }
   }
 }
