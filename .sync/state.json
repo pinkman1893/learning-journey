@@ -47,6 +47,30 @@
       "target_path": "编程语言/C语言/2024-11-10-指针.md",
       "status": "published",
       "image_count": 1
+    },
+    "yuque:doc:194150496": {
+      "doc_id": 194150496,
+      "updated_at": "2025-02-22T07:29:58.000Z",
+      "content_hash": "035696d2aefa5844dc6faf9061b0c774fee0a5ac76dc196bb6eca86842017dab",
+      "target_path": "编程语言/C语言/2024-11-12-字符串.md",
+      "status": "published",
+      "image_count": 0
+    },
+    "yuque:doc:194229576": {
+      "doc_id": 194229576,
+      "updated_at": "2024-11-14T01:55:08.000Z",
+      "content_hash": "f658d5bcd9bc923bfed7b32bcd8d1a3c8311a68fed9c2fe8604a607a8d3848e4",
+      "target_path": "编程语言/C语言/2024-11-13-结构体与共用体.md",
+      "status": "published",
+      "image_count": 0
+    },
+    "yuque:doc:194388093": {
+      "doc_id": 194388093,
+      "updated_at": "2025-02-22T07:34:13.000Z",
+      "content_hash": "9a768e1cce4ca73d697a91d929cc56fdf59932be4e90cbf0fe847fd1d3f5eb30",
+      "target_path": "编程语言/C语言/2024-11-14-动态内存分配.md",
+      "status": "published",
+      "image_count": 1
     }
   }
 }
