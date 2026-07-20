@@ -24,6 +24,7 @@
 <!-- BEGIN AUTO-GENERATED:YUQUE-SYNC -->
 ### 自动同步导航
 
+- [C语言：函数](编程语言/C语言/2024-11-05-函数.md)
 - [Linux 终端](计算机基础/Linux/2026-07-18-Linux终端.md)
 
 <!-- END AUTO-GENERATED:YUQUE-SYNC -->

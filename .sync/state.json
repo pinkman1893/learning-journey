@@ -23,6 +23,14 @@
       "content_hash": "b2eaaa78860fb5c2db9db5cf8f54b08e211cfd56a7b96bf0cdedf46e7a4b05c0",
       "target_path": null,
       "status": "excluded_non_learning"
+    },
+    "yuque:doc:193118248": {
+      "doc_id": 193118248,
+      "updated_at": "2024-11-14T02:29:10.000Z",
+      "content_hash": "e8f2db8533e3b8b4f4e6cff57f38f5e8584994ab9d1e6c3ae636457b123c4717",
+      "target_path": "编程语言/C语言/2024-11-05-函数.md",
+      "status": "published",
+      "image_count": 1
     }
   }
 }
