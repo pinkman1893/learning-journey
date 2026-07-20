@@ -143,6 +143,30 @@
       "target_path": "编程语言/C++/2024-11-21-unordered_map与unordered_set.md",
       "status": "published",
       "image_count": 0
+    },
+    "yuque:doc:195696230": {
+      "doc_id": 195696230,
+      "updated_at": "2025-11-07T08:24:38.000Z",
+      "content_hash": "c569d23b0aa42b588fa167ba9818a36b7e5147823227b653281defa012edeaba",
+      "target_path": "编程语言/JavaScript/2024-11-23-JavaScript基础.md",
+      "status": "published",
+      "image_count": 3
+    },
+    "yuque:doc:195805874": {
+      "doc_id": 195805874,
+      "updated_at": "2024-12-05T04:09:42.000Z",
+      "content_hash": "41349cd909475fcf96c20f4e4ece7b22dd49a5e3253881c9ca0aa9b0189cb101",
+      "target_path": "编程语言/JavaScript/2024-11-24-运算符控制语句与数组.md",
+      "status": "published",
+      "image_count": 4
+    },
+    "yuque:doc:197246949": {
+      "doc_id": 197246949,
+      "updated_at": "2024-12-05T02:52:39.000Z",
+      "content_hash": "53cac465ee464b18c6c3461f42254a677c2f56297e262043ecaf8559a8993cba",
+      "target_path": "编程语言/JavaScript/2024-12-04-JavaScript函数.md",
+      "status": "published",
+      "image_count": 0
     }
   }
 }

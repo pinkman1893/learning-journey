@@ -24,6 +24,9 @@
 <!-- BEGIN AUTO-GENERATED:YUQUE-SYNC -->
 ### 自动同步导航
 
+- [JavaScript：函数](编程语言/JavaScript/2024-12-04-JavaScript函数.md)
+- [JavaScript：运算符、控制语句与数组](编程语言/JavaScript/2024-11-24-运算符控制语句与数组.md)
+- [JavaScript：基础](编程语言/JavaScript/2024-11-23-JavaScript基础.md)
 - [C++：unordered_map 与 unordered_set](编程语言/C++/2024-11-21-unordered_map与unordered_set.md)
 - [C++：queue 队列](编程语言/C++/2024-11-21-queue队列.md)
 - [C++：stack 栈](编程语言/C++/2024-11-21-stack栈.md)
