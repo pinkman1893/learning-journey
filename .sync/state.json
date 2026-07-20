@@ -31,6 +31,22 @@
       "target_path": "编程语言/C语言/2024-11-05-函数.md",
       "status": "published",
       "image_count": 1
+    },
+    "yuque:doc:193276245": {
+      "doc_id": 193276245,
+      "updated_at": "2024-12-23T08:59:37.000Z",
+      "content_hash": "552326e6fcd0476f4f5ab80c7bd77ddacfb90d2e7ef782a11b75404d150f8446",
+      "target_path": "编程语言/C语言/2024-11-06-数组.md",
+      "status": "published",
+      "image_count": 6
+    },
+    "yuque:doc:193829140": {
+      "doc_id": 193829140,
+      "updated_at": "2025-02-22T07:28:07.000Z",
+      "content_hash": "30a62d09309a7f9b09ebfc8606dfce571fd3617a2bdad63d61cb6166837de4d2",
+      "target_path": "编程语言/C语言/2024-11-10-指针.md",
+      "status": "published",
+      "image_count": 1
     }
   }
 }
