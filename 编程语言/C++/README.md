@@ -4,6 +4,9 @@
 
 ## 笔记导航
 
+- [2024-11-21 unordered_map 与 unordered_set](2024-11-21-unordered_map与unordered_set.md)
+- [2024-11-21 queue 队列](2024-11-21-queue队列.md)
+- [2024-11-21 stack 栈](2024-11-21-stack栈.md)
 - [2024-11-20 map 映射](2024-11-20-map映射.md)
 - [2024-11-19 set 集合](2024-11-19-set集合.md)
 - [2024-11-19 vector 动态数组](2024-11-19-vector动态数组.md)

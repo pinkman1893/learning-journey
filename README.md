@@ -24,6 +24,9 @@
 <!-- BEGIN AUTO-GENERATED:YUQUE-SYNC -->
 ### 自动同步导航
 
+- [C++：unordered_map 与 unordered_set](编程语言/C++/2024-11-21-unordered_map与unordered_set.md)
+- [C++：queue 队列](编程语言/C++/2024-11-21-queue队列.md)
+- [C++：stack 栈](编程语言/C++/2024-11-21-stack栈.md)
 - [C++：map 映射](编程语言/C++/2024-11-20-map映射.md)
 - [C++：set 集合](编程语言/C++/2024-11-19-set集合.md)
 - [C++：vector 动态数组](编程语言/C++/2024-11-19-vector动态数组.md)
