@@ -167,6 +167,30 @@
       "target_path": "编程语言/JavaScript/2024-12-04-JavaScript函数.md",
       "status": "published",
       "image_count": 0
+    },
+    "yuque:doc:197343638": {
+      "doc_id": 197343638,
+      "updated_at": "2024-12-05T07:49:32.000Z",
+      "content_hash": "b7da110e7c22f7f7ad41ed9febcca7c4e209d064fe34dd6609a9d9dc4e7c11bf",
+      "target_path": "编程语言/JavaScript/2024-12-05-JavaScript对象.md",
+      "status": "published",
+      "image_count": 0
+    },
+    "yuque:doc:192815291": {
+      "doc_id": 192815291,
+      "updated_at": "2024-11-18T17:14:46.000Z",
+      "content_hash": "513c4ce22b8b34effecdc15e7b93abb0d080097f70447eb15753e777ffda53c9",
+      "target_path": "Web开发/HTML基础/2024-11-02-Web与HTML基础.md",
+      "status": "published",
+      "image_count": 0
+    },
+    "yuque:doc:192816562": {
+      "doc_id": 192816562,
+      "updated_at": "2024-11-18T17:19:01.000Z",
+      "content_hash": "f547e5ebddb2206f61d80c17529aefbb467749a4cb57b173b843ab2bd8840f90",
+      "target_path": "Web开发/HTML基础/2024-11-02-HTML注释.md",
+      "status": "published",
+      "image_count": 0
     }
   }
 }

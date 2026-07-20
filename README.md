@@ -24,6 +24,7 @@
 <!-- BEGIN AUTO-GENERATED:YUQUE-SYNC -->
 ### 自动同步导航
 
+- [JavaScript：对象](编程语言/JavaScript/2024-12-05-JavaScript对象.md)
 - [JavaScript：函数](编程语言/JavaScript/2024-12-04-JavaScript函数.md)
 - [JavaScript：运算符、控制语句与数组](编程语言/JavaScript/2024-11-24-运算符控制语句与数组.md)
 - [JavaScript：基础](编程语言/JavaScript/2024-11-23-JavaScript基础.md)
@@ -42,6 +43,8 @@
 - [C语言：指针](编程语言/C语言/2024-11-10-指针.md)
 - [C语言：数组](编程语言/C语言/2024-11-06-数组.md)
 - [C语言：函数](编程语言/C语言/2024-11-05-函数.md)
+- [Web 开发：Web 与 HTML 基础](Web开发/HTML基础/2024-11-02-Web与HTML基础.md)
+- [Web 开发：HTML 注释](Web开发/HTML基础/2024-11-02-HTML注释.md)
 - [Linux 终端](计算机基础/Linux/2026-07-18-Linux终端.md)
 
 <!-- END AUTO-GENERATED:YUQUE-SYNC -->
