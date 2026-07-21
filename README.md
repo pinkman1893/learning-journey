@@ -45,6 +45,6 @@
 - [C语言：函数](编程语言/C语言/2024-11-05-函数.md)
 - [Web 开发：Web 与 HTML 基础](Web开发/HTML基础/2024-11-02-Web与HTML基础.md)
 - [Web 开发：HTML 注释](Web开发/HTML基础/2024-11-02-HTML注释.md)
-- [Linux 终端](计算机基础/Linux/2026-07-18-Linux终端.md)
+- [Linux 终端与命令](计算机基础/Linux/2026-07-18-Linux终端.md)
 
 <!-- END AUTO-GENERATED:YUQUE-SYNC -->
