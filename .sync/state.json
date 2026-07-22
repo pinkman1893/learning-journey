@@ -669,6 +669,42 @@
       "target_path": "计算机基础/计算机使用基础/2025-02-04-电子扫盲.md",
       "status": "published",
       "image_count": 0
+    },
+    "yuque:doc:204422135": {
+      "doc_id": 204422135,
+      "source_namespace": "mubuzhuanjing-ow8jw/li1o81",
+      "source_slug": "mbfthzthxyfvy67g",
+      "source_title": "AI",
+      "created_at": "2025-02-04T10:02:05.000Z",
+      "updated_at": "2025-02-04T10:23:10.000Z",
+      "content_hash": "27e59441737fe2490ff3a93a6792c136f69853e8c147eb2cdcca31e9aa27c7f4",
+      "target_path": "计算机基础/计算机使用基础/2025-02-04-电子扫盲.md",
+      "status": "published",
+      "image_count": 4
+    },
+    "yuque:doc:204606254": {
+      "doc_id": 204606254,
+      "source_namespace": "mubuzhuanjing-ow8jw/li1o81",
+      "source_slug": "xlwn74l873vxg5as",
+      "source_title": "命令行",
+      "created_at": "2025-02-06T00:10:02.000Z",
+      "updated_at": "2025-02-06T01:36:10.000Z",
+      "content_hash": "a57d5de3451d1c22ef3f19a0ac2b4a149d9e126b0325321f81c3407c70263afb",
+      "target_path": "计算机基础/计算机使用基础/2025-02-04-电子扫盲.md",
+      "status": "published",
+      "image_count": 1
+    },
+    "yuque:doc:205048669": {
+      "doc_id": 205048669,
+      "source_namespace": "mubuzhuanjing-ow8jw/li1o81",
+      "source_slug": "hirf3z95o3a7qldn",
+      "source_title": "WSL",
+      "created_at": "2025-02-08T14:17:19.000Z",
+      "updated_at": "2025-02-08T14:28:54.000Z",
+      "content_hash": "b624178f9a2cfb7d18c5e7aa7bd3779b291be01b79d16640f2c6814f1816c1a8",
+      "target_path": "计算机基础/计算机使用基础/2025-02-04-电子扫盲.md",
+      "status": "published",
+      "image_count": 0
     }
   }
 }
