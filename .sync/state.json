@@ -561,6 +561,42 @@
       "target_path": "Web开发/网站部署/2025-02-09-个人网站与博客搭建基础.md",
       "status": "published",
       "image_count": 0
+    },
+    "yuque:doc:205003211": {
+      "doc_id": 205003211,
+      "source_namespace": "mubuzhuanjing-ow8jw/li1o81",
+      "source_slug": "wlv93b9cf4zebb5k",
+      "source_title": "基本介绍",
+      "created_at": "2025-02-08T07:33:57.000Z",
+      "updated_at": "2025-02-08T10:28:38.000Z",
+      "content_hash": "8a549338a3344c53143358633c610a0fbdd918a1064b8e0ddd1e42f72e32bab4",
+      "target_path": "工具与方法/Git/2025-02-08-Git与代码托管基础.md",
+      "status": "published",
+      "image_count": 5
+    },
+    "yuque:doc:204696511": {
+      "doc_id": 204696511,
+      "source_namespace": "mubuzhuanjing-ow8jw/li1o81",
+      "source_slug": "cdrvnz70m9m2c4qi",
+      "source_title": "Markdown",
+      "created_at": "2025-02-06T10:06:51.000Z",
+      "updated_at": "2026-07-22T01:11:58.000Z",
+      "content_hash": "39bc726f8209e2d44c4883482b283c602e1ab6c5bdde47bfbf22bbae10aa4fba",
+      "target_path": "工具与方法/Markdown/2025-02-06-Markdown基础语法.md",
+      "status": "published",
+      "image_count": 3
+    },
+    "yuque:doc:204419268": {
+      "doc_id": 204419268,
+      "source_namespace": "mubuzhuanjing-ow8jw/li1o81",
+      "source_slug": "bwt75hbyg17d0dde",
+      "source_title": "如何提问题？",
+      "created_at": "2025-02-04T09:12:42.000Z",
+      "updated_at": "2025-02-04T09:14:43.000Z",
+      "content_hash": "6f8143089682aa5934bc55012b317f580486e929684456b47f84d981b72407c8",
+      "target_path": "工具与方法/问题沟通/2025-02-04-如何有效描述问题.md",
+      "status": "published",
+      "image_count": 0
     }
   }
 }
