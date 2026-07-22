@@ -766,6 +766,42 @@
       "status": "published",
       "image_count": 1
     },
+    "yuque:doc:202541250": {
+      "doc_id": 202541250,
+      "source_namespace": "mubuzhuanjing-ow8jw/li1o81",
+      "source_slug": "gq0eh9av58vw6u2p",
+      "source_title": "Python 数学函数",
+      "created_at": "2025-01-14T04:54:10.000Z",
+      "updated_at": "2025-01-14T05:02:47.000Z",
+      "content_hash": "bf4b5c618602be6b279e18b0c5529058857482aa239a1e20b478c86ff3571cc1",
+      "target_path": "编程语言/Python/2025-01-14-Python数学函数.md",
+      "status": "published",
+      "image_count": 0
+    },
+    "yuque:doc:202541659": {
+      "doc_id": 202541659,
+      "source_namespace": "mubuzhuanjing-ow8jw/li1o81",
+      "source_slug": "wio7ve41525we8ur",
+      "source_title": "Python 字符串常用方法",
+      "created_at": "2025-01-14T05:03:47.000Z",
+      "updated_at": "2025-01-14T05:12:06.000Z",
+      "content_hash": "1af26ecd1eb0325579199f4e7e5672745960b8fffa37c705edea4194ea32dd01",
+      "target_path": "编程语言/Python/2025-01-14-Python字符串基础与常用方法.md",
+      "status": "published",
+      "image_count": 0
+    },
+    "yuque:doc:202542176": {
+      "doc_id": 202542176,
+      "source_namespace": "mubuzhuanjing-ow8jw/li1o81",
+      "source_slug": "cbglcq344956st7p",
+      "source_title": "Python列表",
+      "created_at": "2025-01-14T05:12:05.000Z",
+      "updated_at": "2025-01-14T05:28:40.000Z",
+      "content_hash": "9c8b2f043de7e8ba94b9537ca7721ac136f6c168cc2c1fb15f87b1659953d411",
+      "target_path": "编程语言/Python/2025-01-14-Python列表基础.md",
+      "status": "published",
+      "image_count": 0
+    },
     "yuque:doc:202594556": {
       "doc_id": 202594556,
       "source_namespace": "mubuzhuanjing-ow8jw/li1o81",
