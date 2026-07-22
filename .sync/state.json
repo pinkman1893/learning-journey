@@ -597,6 +597,42 @@
       "target_path": "工具与方法/问题沟通/2025-02-04-如何有效描述问题.md",
       "status": "published",
       "image_count": 0
+    },
+    "yuque:doc:204419413": {
+      "doc_id": 204419413,
+      "source_namespace": "mubuzhuanjing-ow8jw/li1o81",
+      "source_slug": "qqdhn1iokmev7gr4",
+      "source_title": "硬件部分",
+      "created_at": "2025-02-04T09:15:51.000Z",
+      "updated_at": "2025-02-06T04:11:42.000Z",
+      "content_hash": "afdd385d2dbd9663ef6ec163eb51325b1780c93c049f98c0b02503538a4aa701",
+      "target_path": "计算机基础/计算机使用基础/2025-02-04-电子扫盲.md",
+      "status": "published",
+      "image_count": 2
+    },
+    "yuque:doc:204419776": {
+      "doc_id": 204419776,
+      "source_namespace": "mubuzhuanjing-ow8jw/li1o81",
+      "source_slug": "dpna6lgolwlqwrtt",
+      "source_title": "软件部分",
+      "created_at": "2025-02-04T09:22:36.000Z",
+      "updated_at": "2025-02-06T09:09:32.000Z",
+      "content_hash": "c22d2cb04470bd43c8cf0700d551919015a9a31a1e0f8f08f9661d7853aa1de4",
+      "target_path": "计算机基础/计算机使用基础/2025-02-04-电子扫盲.md",
+      "status": "published",
+      "image_count": 0
+    },
+    "yuque:doc:204643173": {
+      "doc_id": 204643173,
+      "source_namespace": "mubuzhuanjing-ow8jw/li1o81",
+      "source_slug": "ckrrc1zgghinztg2",
+      "source_title": "注册表",
+      "created_at": "2025-02-06T04:04:11.000Z",
+      "updated_at": "2025-02-06T04:09:57.000Z",
+      "content_hash": "a67dc0ae3da96f3187828dcb7db43b018f84f1273a14c4773f2bea5adafae017",
+      "target_path": "计算机基础/计算机使用基础/2025-02-04-电子扫盲.md",
+      "status": "published",
+      "image_count": 0
     }
   }
 }
