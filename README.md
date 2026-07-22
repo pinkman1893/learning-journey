@@ -46,6 +46,7 @@
 - [Web 开发：Web 与 HTML 基础](Web开发/HTML基础/2024-11-02-Web与HTML基础.md)
 - [Web 开发：HTML 注释](Web开发/HTML基础/2024-11-02-HTML注释.md)
 - [Web 开发：HTML 常用标签](Web开发/HTML基础/2024-11-02-HTML常用标签.md)
+- [Web 开发：Web 标准与前端开发概览](Web开发/前端基础/2024-11-24-Web标准与前端开发概览.md)
 - [Web 开发：CSS 基础与层叠规则](Web开发/CSS基础/2024-11-02-CSS基础与层叠规则.md)
 - [Web 开发：标准流、浮动与流体布局](Web开发/CSS布局/2024-11-14-标准流浮动与流体布局.md)
 - [Web 开发：CSS 定位布局](Web开发/CSS布局/2024-11-14-CSS定位布局.md)
@@ -55,6 +56,8 @@
 - [Web 开发：CSS 图形与图标](Web开发/CSS技巧/2024-11-20-CSS图形与图标.md)
 - [Web 开发：CSS 界面与布局技巧](Web开发/CSS技巧/2024-11-20-CSS界面与布局技巧.md)
 - [Web 开发：960 Grid 布局](Web开发/CSS框架/2024-12-02-960Grid布局.md)
+- [Web 开发：前端设计模式](Web开发/设计模式/2024-11-28-前端设计模式.md)
+- [计算机网络：HTTP 协议使用指南](计算机基础/计算机网络/2024-11-26-HTTP协议使用指南.md)
 - [Linux 终端与命令](计算机基础/Linux/2026-07-18-Linux终端.md)
 
 <!-- END AUTO-GENERATED:YUQUE-SYNC -->
