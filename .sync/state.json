@@ -633,6 +633,42 @@
       "target_path": "计算机基础/计算机使用基础/2025-02-04-电子扫盲.md",
       "status": "published",
       "image_count": 0
+    },
+    "yuque:doc:204642810": {
+      "doc_id": 204642810,
+      "source_namespace": "mubuzhuanjing-ow8jw/li1o81",
+      "source_slug": "sbk6y0lowwxp7yll",
+      "source_title": "虚拟内存",
+      "created_at": "2025-02-06T03:59:30.000Z",
+      "updated_at": "2025-02-06T04:01:29.000Z",
+      "content_hash": "d5fe62930fbeb90549036443d1f2411273061e952cda6b626a626ed11a4b12a8",
+      "target_path": "计算机基础/计算机使用基础/2025-02-04-电子扫盲.md",
+      "status": "published",
+      "image_count": 0
+    },
+    "yuque:doc:204420708": {
+      "doc_id": 204420708,
+      "source_namespace": "mubuzhuanjing-ow8jw/li1o81",
+      "source_slug": "vp9repmm0dc9cvgi",
+      "source_title": "虚拟机",
+      "created_at": "2025-02-04T09:35:34.000Z",
+      "updated_at": "2025-02-04T09:42:06.000Z",
+      "content_hash": "3d435276ebf99d90add43743032a3b301db9b6a80fc26243869f2a03303c084d",
+      "target_path": "计算机基础/计算机使用基础/2025-02-04-电子扫盲.md",
+      "status": "published",
+      "image_count": 0
+    },
+    "yuque:doc:204421263": {
+      "doc_id": 204421263,
+      "source_namespace": "mubuzhuanjing-ow8jw/li1o81",
+      "source_slug": "wlzk8whu70myygfw",
+      "source_title": "编程知识",
+      "created_at": "2025-02-04T09:45:23.000Z",
+      "updated_at": "2025-02-04T10:01:51.000Z",
+      "content_hash": "2225229ed986ccf4ad59ba4acae76eb755425c1a3a4025aa701ac4867b059a26",
+      "target_path": "计算机基础/计算机使用基础/2025-02-04-电子扫盲.md",
+      "status": "published",
+      "image_count": 0
     }
   }
 }
