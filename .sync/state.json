@@ -525,6 +525,42 @@
       "target_path": "Web开发/CSS技巧/2024-11-19-Web前端实训技巧.md",
       "status": "published",
       "image_count": 0
+    },
+    "yuque:doc:206088797": {
+      "doc_id": 206088797,
+      "source_namespace": "mubuzhuanjing-ow8jw/li1o81",
+      "source_slug": "xsv655xm5rory4pq",
+      "source_title": "计算机科学（Crash Course）",
+      "created_at": "2025-02-16T01:28:10.000Z",
+      "updated_at": "2026-04-09T11:51:45.000Z",
+      "content_hash": "70e5641428a92d6b0b982cdc01557f260dbced492b777799457031867f14bbf5",
+      "target_path": "计算机基础/计算机科学导论/2025-02-16-计算机科学Crash-Course.md",
+      "status": "published",
+      "image_count": 14
+    },
+    "yuque:doc:205116327": {
+      "doc_id": 205116327,
+      "source_namespace": "mubuzhuanjing-ow8jw/li1o81",
+      "source_slug": "zktyg9i531nrewfv",
+      "source_title": "搭建网站相关知识",
+      "created_at": "2025-02-09T08:11:50.000Z",
+      "updated_at": "2025-02-20T11:15:58.000Z",
+      "content_hash": "0b195465c4fef4b193e3a3ef301f12e51b538706ebf65f521f7c2515d6883130",
+      "target_path": "Web开发/网站部署/2025-02-09-个人网站与博客搭建基础.md",
+      "status": "published",
+      "image_count": 3
+    },
+    "yuque:doc:205086206": {
+      "doc_id": 205086206,
+      "source_namespace": "mubuzhuanjing-ow8jw/li1o81",
+      "source_slug": "otq3251hap6kkfnl",
+      "source_title": "个人博客搭建",
+      "created_at": "2025-02-09T00:15:00.000Z",
+      "updated_at": "2025-02-09T00:31:38.000Z",
+      "content_hash": "bca62388c700d06fdb4868c29a66df0b1411aa899f63b6822c49d523d4d256d5",
+      "target_path": "Web开发/网站部署/2025-02-09-个人网站与博客搭建基础.md",
+      "status": "published",
+      "image_count": 0
     }
   }
 }
