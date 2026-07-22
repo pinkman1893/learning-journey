@@ -389,6 +389,30 @@
       "target_path": "Web开发/CSS技巧/2024-11-20-CSS图形与图标.md",
       "status": "published_from_user_markdown",
       "image_count": 0
+    },
+    "user-md:CSS用户界面样式:578444b1ce4f": {
+      "source_title": "CSS用户界面样式",
+      "created_at": "2024-11-20",
+      "content_hash": "578444b1ce4f982960636a15ae00b279dfc5ab7fef2607ab0ec558c5ddd2547e",
+      "target_path": "Web开发/CSS技巧/2024-11-20-CSS界面与布局技巧.md",
+      "status": "published_from_user_markdown",
+      "image_count": 1
+    },
+    "user-md:溢出文字的省略号显示:2bb463693697": {
+      "source_title": "溢出文字的省略号显示",
+      "created_at": "2024-11-20",
+      "content_hash": "2bb463693697037f0b196275dc336dee0c148e0096ad18d2b3af545f25c424a9",
+      "target_path": "Web开发/CSS技巧/2024-11-20-CSS界面与布局技巧.md",
+      "status": "published_from_user_markdown",
+      "image_count": 0
+    },
+    "user-md:常见布局技巧:ec8f7141241a": {
+      "source_title": "常见布局技巧",
+      "created_at": "2024-11-21",
+      "content_hash": "ec8f7141241a7631e44a2b9aeb8a0d80362ee05f34ab78f03e91bc916f23be41",
+      "target_path": "Web开发/CSS技巧/2024-11-20-CSS界面与布局技巧.md",
+      "status": "published_from_user_markdown",
+      "image_count": 6
     }
   }
 }
