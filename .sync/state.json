@@ -513,6 +513,18 @@
       "target_path": "Web开发/HTML基础/2024-11-04-前端与HTML语义化.md",
       "status": "published",
       "image_count": 3
+    },
+    "yuque:doc:195058620": {
+      "doc_id": 195058620,
+      "source_namespace": "mubuzhuanjing-ow8jw/as8625",
+      "source_slug": "igxarpfgdaoxb5zu",
+      "source_title": "Web前端实训积累",
+      "created_at": "2024-11-19T01:57:00.000Z",
+      "updated_at": "2024-12-15T15:51:00.000Z",
+      "content_hash": "fc99ad4d3f9e97d14c6b39a8ad606f882634a9f6cb5424c594243b132074bf59",
+      "target_path": "Web开发/CSS技巧/2024-11-19-Web前端实训技巧.md",
+      "status": "published",
+      "image_count": 0
     }
   }
 }
