@@ -477,6 +477,42 @@
       "target_path": "Web开发/前端基础/2024-11-24-Web标准与前端开发概览.md",
       "status": "published",
       "image_count": 1
+    },
+    "yuque:doc:195343557": {
+      "doc_id": 195343557,
+      "source_namespace": "mubuzhuanjing-ow8jw/as8625",
+      "source_slug": "olszt9s6pu2h3axr",
+      "source_title": "青训营Day4——如何写好JavaScript",
+      "created_at": "2024-11-20T14:21:32.000Z",
+      "updated_at": "2024-11-24T05:52:26.000Z",
+      "content_hash": "6f0d7e8495a9e600cb3a88a3ec7d481d38d47adba53330efcc63e65c9256a2dc",
+      "target_path": "Web开发/前端工程/2024-11-20-JavaScript开发原则与过程抽象.md",
+      "status": "published",
+      "image_count": 1
+    },
+    "yuque:doc:193313000": {
+      "doc_id": 193313000,
+      "source_namespace": "mubuzhuanjing-ow8jw/as8625",
+      "source_slug": "lsdi5u7mqlo7wucl",
+      "source_title": "青训营Day3——深入理解CSS",
+      "created_at": "2024-11-06T04:27:46.000Z",
+      "updated_at": "2024-11-07T07:56:57.000Z",
+      "content_hash": "7cb09233e17a83282c35d89fc5bea7c4e41230ca71ab775304016eb47320e5bc",
+      "target_path": "Web开发/CSS基础/2024-11-06-CSS工作原理与格式化上下文.md",
+      "status": "published",
+      "image_count": 10
+    },
+    "yuque:doc:193053354": {
+      "doc_id": 193053354,
+      "source_namespace": "mubuzhuanjing-ow8jw/as8625",
+      "source_slug": "dd5964f1pa7hbhne",
+      "source_title": "青训营Day2——前端与HTML",
+      "created_at": "2024-11-04T10:06:49.000Z",
+      "updated_at": "2024-11-05T13:08:16.000Z",
+      "content_hash": "2230eeb718d94a22bdc585af51cc3720ecfff88ceb70f266ec9ce2022df4a85d",
+      "target_path": "Web开发/HTML基础/2024-11-04-前端与HTML语义化.md",
+      "status": "published",
+      "image_count": 3
     }
   }
 }
