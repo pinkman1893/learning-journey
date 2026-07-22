@@ -766,6 +766,42 @@
       "status": "published",
       "image_count": 1
     },
+    "yuque:doc:202594556": {
+      "doc_id": 202594556,
+      "source_namespace": "mubuzhuanjing-ow8jw/li1o81",
+      "source_slug": "vy2hhvcixn7ygayh",
+      "source_title": "Python面向对象",
+      "created_at": "2025-01-14T11:09:41.000Z",
+      "updated_at": "2025-01-14T11:11:05.000Z",
+      "content_hash": "d295b6eef7ba28f8404457a8f8aa81c2f758b75beb674f1adfbf0ddb2782fd14",
+      "target_path": "编程语言/Python/2025-01-14-Python面向对象基础.md",
+      "status": "published",
+      "image_count": 0
+    },
+    "yuque:doc:202559325": {
+      "doc_id": 202559325,
+      "source_namespace": "mubuzhuanjing-ow8jw/li1o81",
+      "source_slug": "nh2qo5zoetus8lgs",
+      "source_title": "Python函数",
+      "created_at": "2025-01-14T07:01:54.000Z",
+      "updated_at": "2025-01-14T07:04:46.000Z",
+      "content_hash": "5a2205c5d421af979f3fd3264f2e85fbf9820a2d2a0beb4affeaf29b64c01b65",
+      "target_path": "编程语言/Python/2025-01-14-Python函数与循环.md",
+      "status": "published",
+      "image_count": 0
+    },
+    "yuque:doc:202559900": {
+      "doc_id": 202559900,
+      "source_namespace": "mubuzhuanjing-ow8jw/li1o81",
+      "source_slug": "hmgigsnylumvfvw6",
+      "source_title": "Python循环语句",
+      "created_at": "2025-01-14T07:04:45.000Z",
+      "updated_at": "2025-01-14T07:12:02.000Z",
+      "content_hash": "9cad6d3a006b23ef3b9027f97edaa136d55975aa33e841e66bf28398f9d28d41",
+      "target_path": "编程语言/Python/2025-01-14-Python函数与循环.md",
+      "status": "published",
+      "image_count": 0
+    },
     "yuque:doc:202796529": {
       "doc_id": 202796529,
       "source_namespace": "mubuzhuanjing-ow8jw/li1o81",

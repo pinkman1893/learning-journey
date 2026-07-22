@@ -24,6 +24,8 @@
 <!-- BEGIN AUTO-GENERATED:YUQUE-SYNC -->
 ### 自动同步导航
 
+- [Python：函数与循环](编程语言/Python/2025-01-14-Python函数与循环.md)
+- [Python：面向对象基础](编程语言/Python/2025-01-14-Python面向对象基础.md)
 - [JavaScript：对象](编程语言/JavaScript/2024-12-05-JavaScript对象.md)
 - [JavaScript：函数](编程语言/JavaScript/2024-12-04-JavaScript函数.md)
 - [JavaScript：运算符、控制语句与数组](编程语言/JavaScript/2024-11-24-运算符控制语句与数组.md)

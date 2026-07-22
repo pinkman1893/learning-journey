@@ -7,3 +7,4 @@
 - [C语言](C语言/)
 - [C++](C++/)
 - [JavaScript](JavaScript/)
+- [Python](Python/)
