@@ -741,6 +741,42 @@
       "target_path": "工具与方法/图像与绘图/2025-01-18-图片基础与绘图技巧.md",
       "status": "published",
       "image_count": 1
+    },
+    "yuque:doc:203001462": {
+      "doc_id": 203001462,
+      "source_namespace": "mubuzhuanjing-ow8jw/li1o81",
+      "source_slug": "luwakmm7npgrq0ym",
+      "source_title": "快捷键~",
+      "created_at": "2025-01-17T13:25:44.000Z",
+      "updated_at": "2026-03-03T08:07:22.000Z",
+      "content_hash": "3cd2774a1b2ca33910e9a9bd07b0c537a44b08a9805292f4f3499dde1a5bf21a",
+      "target_path": "工具与方法/图像与绘图/2025-01-17-PPT绘图快捷键与形状.md",
+      "status": "published",
+      "image_count": 8
+    },
+    "yuque:doc:203056476": {
+      "doc_id": 203056476,
+      "source_namespace": "mubuzhuanjing-ow8jw/li1o81",
+      "source_slug": "dpd0leyr3cfxm22b",
+      "source_title": "特殊形状的绘制",
+      "created_at": "2025-01-18T03:39:16.000Z",
+      "updated_at": "2025-01-18T04:13:15.000Z",
+      "content_hash": "47a9f4fbbe184a6bd2cf4372b4603bf5bf5659e6cfe9608192b52635e742716b",
+      "target_path": "工具与方法/图像与绘图/2025-01-17-PPT绘图快捷键与形状.md",
+      "status": "published",
+      "image_count": 1
+    },
+    "yuque:doc:202796529": {
+      "doc_id": 202796529,
+      "source_namespace": "mubuzhuanjing-ow8jw/li1o81",
+      "source_slug": "sgdkucx5r5hle3m8",
+      "source_title": "Latex基本结构及基本语法",
+      "created_at": "2025-01-16T02:00:45.000Z",
+      "updated_at": "2025-09-05T19:01:17.000Z",
+      "content_hash": "a441dc249ca0b6909a63aaa6a7bb9e94e4b671ff46e66b852a2831d18ce83b78",
+      "target_path": "工具与方法/LaTeX/2025-01-16-LaTeX基本结构与语法.md",
+      "status": "published",
+      "image_count": 1
     }
   }
 }

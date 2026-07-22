@@ -5,6 +5,7 @@
 ## 主题导航
 
 - [Git](Git/)
+- [LaTeX](LaTeX/)
 - [Markdown](Markdown/)
 - [图像与绘图](图像与绘图/)
 - [问题沟通](问题沟通/)
