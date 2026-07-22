@@ -51,6 +51,7 @@
 - [Web 开发：CSS 定位布局](Web开发/CSS布局/2024-11-14-CSS定位布局.md)
 - [Web 开发：CSS 显示、对齐与布局准则](Web开发/CSS布局/2024-11-14-CSS显示对齐与布局准则.md)
 - [Web 开发：Flex 与 Grid 布局](Web开发/CSS布局/2024-11-22-Flex与Grid布局.md)
+- [Web 开发：CSS 布局方式思考与总结](Web开发/CSS布局/2024-11-29-CSS布局方式思考与总结.md)
 - [Web 开发：CSS 图形与图标](Web开发/CSS技巧/2024-11-20-CSS图形与图标.md)
 - [Web 开发：CSS 界面与布局技巧](Web开发/CSS技巧/2024-11-20-CSS界面与布局技巧.md)
 - [Web 开发：960 Grid 布局](Web开发/CSS框架/2024-12-02-960Grid布局.md)
