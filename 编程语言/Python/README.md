@@ -4,6 +4,8 @@
 
 ## 笔记导航
 
+- [matplotlib 基础绘图](2025-01-19-matplotlib基础绘图.md)
+- [Python 文件操作与异常处理](2025-01-14-Python文件操作与异常处理.md)
 - [Python 元组基础](2025-01-14-Python元组基础.md)
 - [Python 集合基础](2025-01-14-Python集合基础.md)
 - [Python 字典基础](2025-01-14-Python字典基础.md)

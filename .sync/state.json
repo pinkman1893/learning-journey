@@ -766,6 +766,42 @@
       "status": "published",
       "image_count": 1
     },
+    "yuque:doc:202588514": {
+      "doc_id": 202588514,
+      "source_namespace": "mubuzhuanjing-ow8jw/li1o81",
+      "source_slug": "pncn9880n7wxr5ny",
+      "source_title": "Python  I/O流",
+      "created_at": "2025-01-14T09:54:54.000Z",
+      "updated_at": "2025-01-14T11:09:42.000Z",
+      "content_hash": "35aa7e156f46671a0cb6d075680afd02312d54c56f032a62402758a0aebb6108",
+      "target_path": "编程语言/Python/2025-01-14-Python文件操作与异常处理.md",
+      "status": "published",
+      "image_count": 0
+    },
+    "yuque:doc:202585754": {
+      "doc_id": 202585754,
+      "source_namespace": "mubuzhuanjing-ow8jw/li1o81",
+      "source_slug": "eznzzxigd6qx40m8",
+      "source_title": "Python中的异常捕获",
+      "created_at": "2025-01-14T09:33:07.000Z",
+      "updated_at": "2025-01-14T09:40:36.000Z",
+      "content_hash": "c294fd185f01d04e2357fafed94056889a68e1c99172416314d9299498c89eba",
+      "target_path": "编程语言/Python/2025-01-14-Python文件操作与异常处理.md",
+      "status": "published",
+      "image_count": 0
+    },
+    "yuque:doc:203147952": {
+      "doc_id": 203147952,
+      "source_namespace": "mubuzhuanjing-ow8jw/li1o81",
+      "source_slug": "saleouo2x6fw9nbt",
+      "source_title": "matplotlib基础知识",
+      "created_at": "2025-01-19T04:38:06.000Z",
+      "updated_at": "2025-01-19T05:13:57.000Z",
+      "content_hash": "0e20d8be90e2c98202b311c05e8032f6b0518ab65339cf556d29712eac80b566",
+      "target_path": "编程语言/Python/2025-01-19-matplotlib基础绘图.md",
+      "status": "published",
+      "image_count": 0
+    },
     "yuque:doc:202547600": {
       "doc_id": 202547600,
       "source_namespace": "mubuzhuanjing-ow8jw/li1o81",
