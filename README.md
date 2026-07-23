@@ -47,6 +47,8 @@
 - [C++ Learncpp：运算符](编程语言/C++/C++进阶——Learncpp课程笔记/2025-04-07-运算符.md)
 - [C++ Learncpp：输入输出流](编程语言/C++/C++进阶——Learncpp课程笔记/2025-03-14-输入输出流.md)
 - [C++ Learncpp：数据类型](编程语言/C++/C++进阶——Learncpp课程笔记/2025-03-11-数据类型.md)
+- [C++ Learncpp：编码习惯与实践准则](编程语言/C++/C++进阶——Learncpp课程笔记/2025-02-27-C++编码习惯与实践准则.md)
+- [C++ Learncpp：开发流程与基础工程实践](编程语言/C++/C++进阶——Learncpp课程笔记/2025-02-23-C++开发流程与基础工程实践.md)
 - [C++：刷题技巧与高精度算法](编程语言/C++/2025-02-24-C++刷题技巧与高精度算法.md)
 - [C++：unordered_map 与 unordered_set](编程语言/C++/2024-11-21-unordered_map与unordered_set.md)
 - [C++：queue 队列](编程语言/C++/2024-11-21-queue队列.md)

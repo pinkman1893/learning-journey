@@ -1226,6 +1226,30 @@
       "target_path": "编程语言/C++/C++进阶——Learncpp课程笔记/2025-04-07-运算符.md",
       "status": "published_from_user_markdown",
       "image_count": 0
+    },
+    "yuque:doc:207189376": {
+      "doc_id": 207189376,
+      "source_namespace": "mubuzhuanjing-ow8jw/fnpd47",
+      "source_slug": "gtlo3vb3z8swr6tv",
+      "source_title": "前戏",
+      "created_at": "2025-02-23T07:47:12.000Z",
+      "updated_at": "2025-09-15T04:49:34.000Z",
+      "content_hash": "922ec0d89c2bfd5935133e27504f2fea946c9f5d6757b160e3d806356d7d4b0b",
+      "target_path": "编程语言/C++/C++进阶——Learncpp课程笔记/2025-02-23-C++开发流程与基础工程实践.md",
+      "status": "published",
+      "image_count": 2
+    },
+    "yuque:doc:207842867": {
+      "doc_id": 207842867,
+      "source_namespace": "mubuzhuanjing-ow8jw/fnpd47",
+      "source_slug": "upusbiiou778yrxc",
+      "source_title": "Best Habits:",
+      "created_at": "2025-02-27T01:10:08.000Z",
+      "updated_at": "2025-04-19T00:59:40.000Z",
+      "content_hash": "f7f1a73cd91f70af9fe5b997d782fa7e92031bd7de866fda08efe80e9817fb98",
+      "target_path": "编程语言/C++/C++进阶——Learncpp课程笔记/2025-02-27-C++编码习惯与实践准则.md",
+      "status": "published",
+      "image_count": 1
     }
   }
 }
