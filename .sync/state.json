@@ -766,6 +766,42 @@
       "status": "published",
       "image_count": 1
     },
+    "yuque:doc:202872270": {
+      "doc_id": 202872270,
+      "source_namespace": "mubuzhuanjing-ow8jw/li1o81",
+      "source_slug": "azd731aa3gphg2v3",
+      "source_title": "Numpy数组对象",
+      "created_at": "2025-01-16T12:15:32.000Z",
+      "updated_at": "2025-01-17T12:04:56.000Z",
+      "content_hash": "d1639eaaf9695528ab1ff6ea24f0e1fd099cfc9894167e203e481b00df1e7fa4",
+      "target_path": "编程语言/Python/2025-01-16-NumPy数组基础.md",
+      "status": "published",
+      "image_count": 0
+    },
+    "yuque:doc:202996465": {
+      "doc_id": 202996465,
+      "source_namespace": "mubuzhuanjing-ow8jw/li1o81",
+      "source_slug": "dx2luz6xr35v3sfp",
+      "source_title": "数组的运算",
+      "created_at": "2025-01-17T11:55:07.000Z",
+      "updated_at": "2025-01-17T12:02:35.000Z",
+      "content_hash": "de7db206f043ca9f3ad43a518d73cf629266ed07e8ba52f322e76106a62bbe85",
+      "target_path": "编程语言/Python/2025-01-17-NumPy数组运算与广播.md",
+      "status": "published",
+      "image_count": 3
+    },
+    "yuque:doc:202997966": {
+      "doc_id": 202997966,
+      "source_namespace": "mubuzhuanjing-ow8jw/li1o81",
+      "source_slug": "rl13zgkua7s4tg3q",
+      "source_title": "矩阵的操作",
+      "created_at": "2025-01-17T12:23:26.000Z",
+      "updated_at": "2025-01-17T12:31:37.000Z",
+      "content_hash": "c1638474db43398a7766c1f81774dad71035a76084db768cde08594c79d29520",
+      "target_path": "编程语言/Python/2025-01-17-NumPy矩阵操作.md",
+      "status": "published",
+      "image_count": 0
+    },
     "yuque:doc:202588514": {
       "doc_id": 202588514,
       "source_namespace": "mubuzhuanjing-ow8jw/li1o81",

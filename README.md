@@ -24,6 +24,9 @@
 <!-- BEGIN AUTO-GENERATED:YUQUE-SYNC -->
 ### 自动同步导航
 
+- [Python：NumPy 数组运算与广播](编程语言/Python/2025-01-17-NumPy数组运算与广播.md)
+- [Python：NumPy 矩阵操作](编程语言/Python/2025-01-17-NumPy矩阵操作.md)
+- [Python：NumPy 数组基础](编程语言/Python/2025-01-16-NumPy数组基础.md)
 - [Python：matplotlib 基础绘图](编程语言/Python/2025-01-19-matplotlib基础绘图.md)
 - [Python：文件操作与异常处理](编程语言/Python/2025-01-14-Python文件操作与异常处理.md)
 - [Python：元组基础](编程语言/Python/2025-01-14-Python元组基础.md)
