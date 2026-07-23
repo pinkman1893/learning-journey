@@ -4,6 +4,9 @@
 
 ## 笔记导航
 
+- [Python 元组基础](2025-01-14-Python元组基础.md)
+- [Python 集合基础](2025-01-14-Python集合基础.md)
+- [Python 字典基础](2025-01-14-Python字典基础.md)
 - [Python 数学函数](2025-01-14-Python数学函数.md)
 - [Python 字符串基础与常用方法](2025-01-14-Python字符串基础与常用方法.md)
 - [Python 列表基础](2025-01-14-Python列表基础.md)
