@@ -24,6 +24,7 @@
 <!-- BEGIN AUTO-GENERATED:YUQUE-SYNC -->
 ### 自动同步导航
 
+- [机器学习：基础与回归模型](人工智能/机器学习/2025-03-20-机器学习基础与回归模型.md)
 - [Python：NumPy 数组运算与广播](编程语言/Python/2025-01-17-NumPy数组运算与广播.md)
 - [Python：NumPy 矩阵操作](编程语言/Python/2025-01-17-NumPy矩阵操作.md)
 - [Python：NumPy 数组基础](编程语言/Python/2025-01-16-NumPy数组基础.md)

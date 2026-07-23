@@ -1024,6 +1024,42 @@
       "target_path": "计算机基础/软件工程/2025-04-13-UML概述与类图.md",
       "status": "published",
       "image_count": 2
+    },
+    "yuque:doc:211538934": {
+      "doc_id": 211538934,
+      "source_namespace": "mubuzhuanjing-ow8jw/fnpd47",
+      "source_slug": "yvsxx1aa54mnyhch",
+      "source_title": "机器学习概述",
+      "created_at": "2025-03-20T14:58:46.000Z",
+      "updated_at": "2025-03-24T04:47:00.000Z",
+      "content_hash": "d8d6e199e053ac12b363fd6422551bf084220d8e0aa8a3deb278c7adc8f7e09f",
+      "target_path": "人工智能/机器学习/2025-03-20-机器学习基础与回归模型.md",
+      "status": "published",
+      "image_count": 0
+    },
+    "yuque:doc:212014955": {
+      "doc_id": 212014955,
+      "source_namespace": "mubuzhuanjing-ow8jw/fnpd47",
+      "source_slug": "rkwy1woqlg3svqnx",
+      "source_title": "线性回归模型",
+      "created_at": "2025-03-24T04:25:50.000Z",
+      "updated_at": "2025-04-14T09:42:18.000Z",
+      "content_hash": "2259793edc9a773804aae8815ebb9f17ff7ab9404e1baf218cfa68aa796c6043",
+      "target_path": "人工智能/机器学习/2025-03-20-机器学习基础与回归模型.md",
+      "status": "published",
+      "image_count": 7
+    },
+    "yuque:doc:213341422": {
+      "doc_id": 213341422,
+      "source_namespace": "mubuzhuanjing-ow8jw/fnpd47",
+      "source_slug": "ycnf1lls3hw2q557",
+      "source_title": "逻辑回归模型",
+      "created_at": "2025-04-01T04:54:29.000Z",
+      "updated_at": "2025-04-13T03:21:07.000Z",
+      "content_hash": "656aa21642e7262e4ce61cc3bb99a64c1447d82bdd38fb4863b2ab0184f67d96",
+      "target_path": "人工智能/机器学习/2025-03-20-机器学习基础与回归模型.md",
+      "status": "published",
+      "image_count": 7
     }
   }
 }
