@@ -1156,6 +1156,42 @@
       "target_path": "AI工具与实践/Codex/2026-07-23-Subagents与上下文管理实践.md",
       "status": "published",
       "image_count": 3
+    },
+    "yuque:doc:223467256": {
+      "doc_id": 223467256,
+      "source_namespace": "mubuzhuanjing-ow8jw/fnpd47",
+      "source_slug": "gr8r3srb408qnitw",
+      "source_title": "第六章：关系数据理论",
+      "created_at": "2025-06-11T17:13:07.000Z",
+      "updated_at": "2025-10-20T09:40:40.000Z",
+      "content_hash": "de0f847206c2a625497581ff6e48f476564e5f72dd11d0bdc9b0feb89fed6418",
+      "target_path": "计算机基础/数据库/2025-06-12-关系数据理论与范式.md",
+      "status": "published",
+      "image_count": 13
+    },
+    "yuque:doc:223555806": {
+      "doc_id": 223555806,
+      "source_namespace": "mubuzhuanjing-ow8jw/fnpd47",
+      "source_slug": "cmfkz6x0rir3kd0e",
+      "source_title": "第七章：数据库设计",
+      "created_at": "2025-06-12T07:30:56.000Z",
+      "updated_at": "2026-02-28T15:11:45.000Z",
+      "content_hash": "aa6edbe19eab00096eb6657e4a464512f57fb890d96fb363f32baf165193c40a",
+      "target_path": "计算机基础/数据库/2025-06-12-数据库设计.md",
+      "status": "published",
+      "image_count": 0
+    },
+    "yuque:doc:207317161": {
+      "doc_id": 207317161,
+      "source_namespace": "mubuzhuanjing-ow8jw/fnpd47",
+      "source_slug": "hw89r3zkc7gfu1vw",
+      "source_title": "C++刷算法题笔记",
+      "created_at": "2025-02-24T04:29:30.000Z",
+      "updated_at": "2025-04-11T12:39:26.000Z",
+      "content_hash": "c76ad93116e6a73b5cf797f10b1fe7cd061527f53844c5fd9a2e75bfddc3a231",
+      "target_path": "编程语言/C++/2025-02-24-C++刷题技巧与高精度算法.md",
+      "status": "published",
+      "image_count": 14
     }
   }
 }

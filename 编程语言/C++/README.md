@@ -4,6 +4,7 @@
 
 ## 笔记导航
 
+- [2025-02-24 C++ 刷题技巧与高精度算法](2025-02-24-C++刷题技巧与高精度算法.md)
 - [2024-11-21 unordered_map 与 unordered_set](2024-11-21-unordered_map与unordered_set.md)
 - [2024-11-21 queue 队列](2024-11-21-queue队列.md)
 - [2024-11-21 stack 栈](2024-11-21-stack栈.md)
