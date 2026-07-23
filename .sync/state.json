@@ -1096,6 +1096,42 @@
       "target_path": "计算机基础/数据库/2025-03-13-关系数据库与关系代数.md",
       "status": "published",
       "image_count": 15
+    },
+    "yuque:doc:212584103": {
+      "doc_id": 212584103,
+      "source_namespace": "mubuzhuanjing-ow8jw/fnpd47",
+      "source_slug": "egqq65iskhytorqa",
+      "source_title": "第三章：关系数据库标准语言SQL",
+      "created_at": "2025-03-27T05:59:03.000Z",
+      "updated_at": "2025-06-26T15:44:01.000Z",
+      "content_hash": "34d46494fded5bae2a2536e5286f4afa63c6132b238634e280b9c0baedf25135",
+      "target_path": "计算机基础/数据库/2025-03-27-SQL基础与数据操作.md",
+      "status": "published",
+      "image_count": 29
+    },
+    "yuque:doc:219710748": {
+      "doc_id": 219710748,
+      "source_namespace": "mubuzhuanjing-ow8jw/fnpd47",
+      "source_slug": "lgx0snwcse65abfh",
+      "source_title": "第四章：数据库安全性",
+      "created_at": "2025-05-15T06:04:41.000Z",
+      "updated_at": "2025-06-27T00:40:32.000Z",
+      "content_hash": "9c385e3dfcddff3eca35175c3a86ed7097c040cd67fc0bc06e19b74d23e616cb",
+      "target_path": "计算机基础/数据库/2025-05-15-数据库安全性.md",
+      "status": "published",
+      "image_count": 4
+    },
+    "yuque:doc:219710911": {
+      "doc_id": 219710911,
+      "source_namespace": "mubuzhuanjing-ow8jw/fnpd47",
+      "source_slug": "rey45hbob57na0ab",
+      "source_title": "第五章：数据库完整性",
+      "created_at": "2025-05-15T06:05:29.000Z",
+      "updated_at": "2025-06-26T23:55:16.000Z",
+      "content_hash": "7b09aabc37faa77b7e5d3d2443d29f919fae47e2aa44c7b0203279c4ae091726",
+      "target_path": "计算机基础/数据库/2025-05-15-数据库完整性.md",
+      "status": "published",
+      "image_count": 5
     }
   }
 }
