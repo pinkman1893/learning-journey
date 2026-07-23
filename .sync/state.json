@@ -988,6 +988,42 @@
       "content_hash": "7c02b6e2435147f42bbefb86bbe82e57e79eecec7d83fddea0fcb05ee256d1d6",
       "target_path": null,
       "status": "excluded_sparse"
+    },
+    "yuque:doc:238091490": {
+      "doc_id": 238091490,
+      "source_namespace": "mubuzhuanjing-ow8jw/fnpd47",
+      "source_slug": "wdghkunf1xvyn1ha",
+      "source_title": "E-R图元素&语义",
+      "created_at": "2025-09-23T09:16:10.000Z",
+      "updated_at": "2025-09-23T09:17:29.000Z",
+      "content_hash": "8090d30c9d5cec59c135c1742764737b460fefba031a35a814a4f311de1c303c",
+      "target_path": "计算机基础/数据库/2025-09-23-E-R图元素与语义.md",
+      "status": "published",
+      "image_count": 4
+    },
+    "yuque:doc:215124459": {
+      "doc_id": 215124459,
+      "source_namespace": "mubuzhuanjing-ow8jw/fnpd47",
+      "source_slug": "sclyg3xzgaov8aoh",
+      "source_title": "UML概述",
+      "created_at": "2025-04-13T04:47:56.000Z",
+      "updated_at": "2025-04-13T05:14:08.000Z",
+      "content_hash": "ab4812de22f73ae083aa75bae8031bb80005be7ff144f52533bfbe9bb27c12b9",
+      "target_path": "计算机基础/软件工程/2025-04-13-UML概述与类图.md",
+      "status": "published",
+      "image_count": 0
+    },
+    "yuque:doc:215124313": {
+      "doc_id": 215124313,
+      "source_namespace": "mubuzhuanjing-ow8jw/fnpd47",
+      "source_slug": "zg4smgo4tyn439kg",
+      "source_title": "UML类图",
+      "created_at": "2025-04-13T04:45:20.000Z",
+      "updated_at": "2026-07-23T02:12:59.000Z",
+      "content_hash": "614cc6c9386c91193a4aba12a3747024f476ad3dbf36459f30c6ade2c21b1424",
+      "target_path": "计算机基础/软件工程/2025-04-13-UML概述与类图.md",
+      "status": "published",
+      "image_count": 2
     }
   }
 }
