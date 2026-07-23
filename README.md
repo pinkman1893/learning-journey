@@ -24,6 +24,8 @@
 <!-- BEGIN AUTO-GENERATED:YUQUE-SYNC -->
 ### 自动同步导航
 
+- [AI 工具与实践：Subagents 与上下文管理实践](AI工具与实践/Codex/2026-07-23-Subagents与上下文管理实践.md)
+- [AI 工具与实践：FastCtx 工具与 Codex 上下文效率](AI工具与实践/Codex/2026-07-22-FastCtx工具与Codex上下文效率.md)
 - [机器学习：基础与回归模型](人工智能/机器学习/2025-03-20-机器学习基础与回归模型.md)
 - [Python：NumPy 数组运算与广播](编程语言/Python/2025-01-17-NumPy数组运算与广播.md)
 - [Python：NumPy 矩阵操作](编程语言/Python/2025-01-17-NumPy矩阵操作.md)
