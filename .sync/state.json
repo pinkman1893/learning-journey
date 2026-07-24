@@ -1286,6 +1286,42 @@
       "target_path": "人工智能/检索增强生成/2025-11-10-RAG与GraphRAG.md",
       "status": "published",
       "image_count": 3
+    },
+    "yuque:doc:242143974": {
+      "doc_id": 242143974,
+      "source_namespace": "mubuzhuanjing-ow8jw/px00ou",
+      "source_slug": "aww9kbbz4a8xrhbs",
+      "source_title": "生成式AI & LLM概述",
+      "created_at": "2025-10-27T02:21:38.000Z",
+      "updated_at": "2025-10-27T06:26:01.000Z",
+      "content_hash": "9ea252f280ca89e4c471e61bdb8e8274ee9ed35085bfb8fe4d2b35c36a1aef12",
+      "target_path": "人工智能/大语言模型/2025-10-27-生成式AI与LLM概述.md",
+      "status": "published",
+      "image_count": 0
+    },
+    "yuque:doc:242142953": {
+      "doc_id": 242142953,
+      "source_namespace": "mubuzhuanjing-ow8jw/px00ou",
+      "source_slug": "ut148nsphob2psge",
+      "source_title": "Transformer架构",
+      "created_at": "2025-10-27T02:16:11.000Z",
+      "updated_at": "2025-10-27T06:37:04.000Z",
+      "content_hash": "d48112ac7c2bcd7bf79d9c768c8ffc7030df53c1b51082e48b2685dd6320e56d",
+      "target_path": "人工智能/大语言模型/2025-10-27-Transformer架构.md",
+      "status": "published",
+      "image_count": 9
+    },
+    "yuque:doc:242171944": {
+      "doc_id": 242171944,
+      "source_namespace": "mubuzhuanjing-ow8jw/px00ou",
+      "source_slug": "cehg5co3a89v9srz",
+      "source_title": "提示词工程 Prompt Engineering",
+      "created_at": "2025-10-27T05:53:53.000Z",
+      "updated_at": "2025-10-27T06:26:07.000Z",
+      "content_hash": "3c1902c13305df077bf1579eff9c2600b0ec489f210fa7919b6e14bbc83b4c3d",
+      "target_path": "人工智能/大语言模型/2025-10-27-提示词工程.md",
+      "status": "published",
+      "image_count": 0
     }
   }
 }
