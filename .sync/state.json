@@ -1250,6 +1250,42 @@
       "target_path": "编程语言/C++/C++进阶——Learncpp课程笔记/2025-02-27-C++编码习惯与实践准则.md",
       "status": "published",
       "image_count": 1
+    },
+    "yuque:doc:241300081": {
+      "doc_id": 241300081,
+      "source_namespace": "mubuzhuanjing-ow8jw/px00ou",
+      "source_slug": "nk7gmw6x7khgm3nn",
+      "source_title": "领域特定语言 DSL",
+      "created_at": "2025-10-20T12:51:16.000Z",
+      "updated_at": "2025-11-02T08:03:10.000Z",
+      "content_hash": "de3165170385f0ff01a4f4d323cdf5f63c5127242ef28a1065a4a2efb586b973",
+      "target_path": "编程语言/领域特定语言/2025-10-20-领域特定语言DSL.md",
+      "status": "published",
+      "image_count": 6
+    },
+    "yuque:doc:244141910": {
+      "doc_id": 244141910,
+      "source_namespace": "mubuzhuanjing-ow8jw/px00ou",
+      "source_slug": "hneasdi5ntdg0ffq",
+      "source_title": "RAG（检索增强生成）",
+      "created_at": "2025-11-10T06:54:18.000Z",
+      "updated_at": "2025-11-29T09:46:33.000Z",
+      "content_hash": "f071d99bf3cad93aae9e2bcda65195feedbed443b5112da58420798a4e26588e",
+      "target_path": "人工智能/检索增强生成/2025-11-10-RAG与GraphRAG.md",
+      "status": "published",
+      "image_count": 2
+    },
+    "yuque:doc:244146154": {
+      "doc_id": 244146154,
+      "source_namespace": "mubuzhuanjing-ow8jw/px00ou",
+      "source_slug": "qzl1kgxvsswzgv3a",
+      "source_title": "GraphRAG（图增强RAG）",
+      "created_at": "2025-11-10T07:19:09.000Z",
+      "updated_at": "2025-11-29T09:47:50.000Z",
+      "content_hash": "c467623406193ea8d0231f4f783e34e8848b3d6007e7139985cbf6d877c67586",
+      "target_path": "人工智能/检索增强生成/2025-11-10-RAG与GraphRAG.md",
+      "status": "published",
+      "image_count": 3
     }
   }
 }
