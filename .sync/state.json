@@ -1322,6 +1322,42 @@
       "target_path": "人工智能/大语言模型/2025-10-27-提示词工程.md",
       "status": "published",
       "image_count": 0
+    },
+    "yuque:doc:242177505": {
+      "doc_id": 242177505,
+      "source_namespace": "mubuzhuanjing-ow8jw/px00ou",
+      "source_slug": "myaaeewn49zp52xw",
+      "source_title": "模型的推理参数配置",
+      "created_at": "2025-10-27T06:26:30.000Z",
+      "updated_at": "2025-10-27T07:02:56.000Z",
+      "content_hash": "bcf6101f329c81411d7dd724a2985cc279427998169a6e6df9f72dc8d113894e",
+      "target_path": "人工智能/大语言模型/2025-10-27-模型推理参数配置.md",
+      "status": "published",
+      "image_count": 0
+    },
+    "yuque:doc:242195907": {
+      "doc_id": 242195907,
+      "source_namespace": "mubuzhuanjing-ow8jw/px00ou",
+      "source_slug": "efxo0ymbgirr14kd",
+      "source_title": "生成式AI项目开发的生命周期",
+      "created_at": "2025-10-27T08:00:46.000Z",
+      "updated_at": "2025-10-27T08:18:09.000Z",
+      "content_hash": "1397557dffeff4abac7af779c99e52ca6b4b84b229fe527e2afb0920e5b8335f",
+      "target_path": "人工智能/大语言模型/2025-10-27-生成式AI项目开发生命周期.md",
+      "status": "published",
+      "image_count": 1
+    },
+    "yuque:doc:242201886": {
+      "doc_id": 242201886,
+      "source_namespace": "mubuzhuanjing-ow8jw/px00ou",
+      "source_slug": "cl09fmmtmxqlgh5m",
+      "source_title": "LLM微调 fine-tuning",
+      "created_at": "2025-10-27T08:31:46.000Z",
+      "updated_at": "2025-10-28T15:32:41.000Z",
+      "content_hash": "7eab18898e8a70b180c2097f5f810c3e72788962de14dc9961c8055b6ee99b64",
+      "target_path": "人工智能/大语言模型/2025-10-27-LLM微调.md",
+      "status": "published",
+      "image_count": 9
     }
   }
 }

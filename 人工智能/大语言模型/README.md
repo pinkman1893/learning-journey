@@ -4,6 +4,9 @@
 
 ## 笔记
 
+- [LLM 微调（Fine-tuning）](2025-10-27-LLM微调.md)
+- [生成式 AI 项目开发生命周期](2025-10-27-生成式AI项目开发生命周期.md)
+- [模型推理参数配置](2025-10-27-模型推理参数配置.md)
+- [提示词工程 Prompt Engineering](2025-10-27-提示词工程.md)
 - [生成式 AI 与 LLM 概述](2025-10-27-生成式AI与LLM概述.md)
 - [Transformer 架构](2025-10-27-Transformer架构.md)
-- [提示词工程 Prompt Engineering](2025-10-27-提示词工程.md)
