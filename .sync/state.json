@@ -1358,6 +1358,42 @@
       "target_path": "人工智能/大语言模型/2025-10-27-LLM微调.md",
       "status": "published",
       "image_count": 9
+    },
+    "yuque:doc:242323423": {
+      "doc_id": 242323423,
+      "source_namespace": "mubuzhuanjing-ow8jw/px00ou",
+      "source_slug": "kwkk01ngyz5iie1d",
+      "source_title": "LLM性能评估指标（Model evaluation metrics）",
+      "created_at": "2025-10-28T04:52:07.000Z",
+      "updated_at": "2025-10-28T05:18:07.000Z",
+      "content_hash": "4b6ebe3b28ee918e6c04093897a1cc3b9de5a55be0ffc009868a598583f39b2b",
+      "target_path": "人工智能/大语言模型/2025-10-28-LLM性能评估指标.md",
+      "status": "published",
+      "image_count": 4
+    },
+    "yuque:doc:242325289": {
+      "doc_id": 242325289,
+      "source_namespace": "mubuzhuanjing-ow8jw/px00ou",
+      "source_slug": "gtp83agealygvubz",
+      "source_title": "RLHF 人类反馈的强化学习，Reinforcement Learning From Human Feedback",
+      "created_at": "2025-10-28T05:19:09.000Z",
+      "updated_at": "2025-11-11T13:18:59.000Z",
+      "content_hash": "cbc5e0057ed24625ed852513d93fdd4cc58a5b6c74b823671ac4027f5011a931",
+      "target_path": "人工智能/大语言模型/2025-10-28-RLHF人类反馈强化学习.md",
+      "status": "published",
+      "image_count": 5
+    },
+    "yuque:doc:242131720": {
+      "doc_id": 242131720,
+      "source_namespace": "mubuzhuanjing-ow8jw/px00ou",
+      "source_slug": "iy9wpmgytol3b5qt",
+      "source_title": "机器学习概述",
+      "created_at": "2025-10-27T01:16:16.000Z",
+      "updated_at": "2025-10-27T01:16:17.000Z",
+      "content_hash": "d8d6e199e053ac12b363fd6422551bf084220d8e0aa8a3deb278c7adc8f7e09f",
+      "target_path": "人工智能/机器学习/2025-03-20-机器学习基础与回归模型.md",
+      "status": "published_duplicate",
+      "image_count": 0
     }
   }
 }
