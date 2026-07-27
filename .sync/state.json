@@ -1394,6 +1394,42 @@
       "target_path": "人工智能/机器学习/2025-03-20-机器学习基础与回归模型.md",
       "status": "published_duplicate",
       "image_count": 0
+    },
+    "yuque:doc:242131723": {
+      "doc_id": 242131723,
+      "source_namespace": "mubuzhuanjing-ow8jw/px00ou",
+      "source_slug": "goose84xb11hr0xu",
+      "source_title": "线性回归模型",
+      "created_at": "2025-10-27T01:16:17.000Z",
+      "updated_at": "2025-10-27T01:36:24.000Z",
+      "content_hash": "a3490cfef02d4df304310f37113eed245a01859451fe8d40720751708dcf21cf",
+      "target_path": "人工智能/机器学习/2025-03-20-机器学习基础与回归模型.md",
+      "status": "published_duplicate",
+      "image_count": 7
+    },
+    "yuque:doc:242131722": {
+      "doc_id": 242131722,
+      "source_namespace": "mubuzhuanjing-ow8jw/px00ou",
+      "source_slug": "cztg02ic9bra2eg0",
+      "source_title": "逻辑回归模型",
+      "created_at": "2025-10-27T01:16:17.000Z",
+      "updated_at": "2025-10-27T01:37:37.000Z",
+      "content_hash": "8b11a46704469f55189efffb45aa777aad59b755adfdfa32b1541b443260b947",
+      "target_path": "人工智能/机器学习/2025-03-20-机器学习基础与回归模型.md",
+      "status": "published_duplicate",
+      "image_count": 7
+    },
+    "yuque:doc:242131721": {
+      "doc_id": 242131721,
+      "source_namespace": "mubuzhuanjing-ow8jw/px00ou",
+      "source_slug": "sem5ic1vue1mq6cn",
+      "source_title": "神经网络模型",
+      "created_at": "2025-10-27T01:16:17.000Z",
+      "updated_at": "2025-10-27T01:16:17.000Z",
+      "content_hash": "6f456899af8c04b391fb70ec1eeef856249d52a815a290f9d6a7c4e377b4b50d",
+      "target_path": "人工智能/机器学习/2025-03-20-机器学习基础与回归模型.md",
+      "status": "published_duplicate",
+      "image_count": 2
     }
   }
 }
