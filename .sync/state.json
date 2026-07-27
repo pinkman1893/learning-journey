@@ -1574,6 +1574,42 @@
       "target_path": "数据结构与算法/STL与容器/2025-09-08-容器类的存储结构与迭代器.md",
       "status": "published",
       "image_count": 6
+    },
+    "yuque:doc:237906719": {
+      "doc_id": 237906719,
+      "source_namespace": "mubuzhuanjing-ow8jw/px00ou",
+      "source_slug": "eifrbwnv5cy15lm7",
+      "source_title": "【√】第三章：复杂度分析",
+      "created_at": "2025-09-22T11:16:34.000Z",
+      "updated_at": "2025-12-27T06:40:59.000Z",
+      "content_hash": "417821cc0dc2d05c81502a06307c4fd6422b967a3dc42c1f510470d1605a9976",
+      "target_path": "数据结构与算法/算法基础/2025-09-22-复杂度分析.md",
+      "status": "published",
+      "image_count": 10
+    },
+    "yuque:doc:237925976": {
+      "doc_id": 237925976,
+      "source_namespace": "mubuzhuanjing-ow8jw/px00ou",
+      "source_slug": "ks6r42ng4gwgb3wp",
+      "source_title": "【√】第四章：recursion 递归",
+      "created_at": "2025-09-22T13:24:26.000Z",
+      "updated_at": "2025-12-27T08:19:35.000Z",
+      "content_hash": "302c90c871a9c2216b97477597a66506f363c148f076a670a6898abe34de8baa",
+      "target_path": "数据结构与算法/算法基础/2025-09-22-递归与回溯.md",
+      "status": "published",
+      "image_count": 6
+    },
+    "yuque:doc:240350907": {
+      "doc_id": 240350907,
+      "source_namespace": "mubuzhuanjing-ow8jw/px00ou",
+      "source_slug": "cggys0wmy8x8iw0r",
+      "source_title": "【√】第五章：vector & Deque 向量和双端队列",
+      "created_at": "2025-10-13T13:16:57.000Z",
+      "updated_at": "2025-12-27T09:51:05.000Z",
+      "content_hash": "aa52a86a65d60bc0bab473c5d23b59cc68018fb1bd3d11a5463793d998350153",
+      "target_path": "数据结构与算法/STL与容器/2025-10-13-Vector与Deque.md",
+      "status": "published",
+      "image_count": 14
     }
   }
 }
