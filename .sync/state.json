@@ -1430,6 +1430,42 @@
       "target_path": "人工智能/机器学习/2025-03-20-机器学习基础与回归模型.md",
       "status": "published_duplicate",
       "image_count": 2
+    },
+    "yuque:doc:244535698": {
+      "doc_id": 244535698,
+      "source_namespace": "mubuzhuanjing-ow8jw/px00ou",
+      "source_slug": "hf7cahfg2g56fnki",
+      "source_title": "如何写好一篇科研论文",
+      "created_at": "2025-11-12T23:59:18.000Z",
+      "updated_at": "2025-11-13T11:35:33.000Z",
+      "content_hash": "db66075bb06ffaed7989a65940db15d433fc485c6cb12e2830fe6e2ca1f68047",
+      "target_path": "工具与方法/科研写作/2025-11-13-科研论文写作方法.md",
+      "status": "published",
+      "image_count": 8
+    },
+    "yuque:doc:241025490": {
+      "doc_id": 241025490,
+      "source_namespace": "mubuzhuanjing-ow8jw/px00ou",
+      "source_slug": "efsbh9g751yp1z3h",
+      "source_title": "outlook邮箱工具",
+      "created_at": "2025-10-18T05:49:55.000Z",
+      "updated_at": "2025-10-19T12:37:08.000Z",
+      "content_hash": "b9ce842a0156444554b7ad6f567df09e1c67cb01498497028a1e85b5ddbfcf43",
+      "target_path": "工具与方法/邮件工具/2025-10-18-Outlook邮件使用与礼仪.md",
+      "status": "published",
+      "image_count": 0
+    },
+    "yuque:doc:245766689": {
+      "doc_id": 245766689,
+      "source_namespace": "mubuzhuanjing-ow8jw/px00ou",
+      "source_slug": "imggg7mgf8n5txby",
+      "source_title": "C01：UCD",
+      "created_at": "2025-11-22T03:15:33.000Z",
+      "updated_at": "2025-11-23T10:12:15.000Z",
+      "content_hash": "5f8e120029ea9b1f79a353bb13aab8f69b65b15ef753ab9c378dd0d44ff42571",
+      "target_path": "设计与用户体验/以用户为中心的设计/2025-11-22-UCD基础.md",
+      "status": "published",
+      "image_count": 0
     }
   }
 }
