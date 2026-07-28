@@ -1718,6 +1718,42 @@
       "target_path": "计算机基础/软件工程/2025-09-01-软件系统与需求获取.md",
       "status": "published",
       "image_count": 0
+    },
+    "yuque:doc:236889656": {
+      "doc_id": 236889656,
+      "source_namespace": "mubuzhuanjing-ow8jw/px00ou",
+      "source_slug": "gwzf5i2ahxzr5fkz",
+      "source_title": "第三章：需求描述与规约【分析阶段】",
+      "created_at": "2025-09-15T08:57:30.000Z",
+      "updated_at": "2026-01-03T12:09:39.000Z",
+      "content_hash": "bbcb6930964ca516d3791eab3991006e10fa0c3db49b998746d32efab02b5426",
+      "target_path": "计算机基础/软件工程/2025-09-15-需求描述与规约.md",
+      "status": "published",
+      "image_count": 28
+    },
+    "yuque:doc:241268357": {
+      "doc_id": 241268357,
+      "source_namespace": "mubuzhuanjing-ow8jw/px00ou",
+      "source_slug": "vdwgfvbwcxheo14x",
+      "source_title": "第四章：系统设计原则【设计阶段】",
+      "created_at": "2025-10-20T08:23:54.000Z",
+      "updated_at": "2026-01-03T15:20:52.000Z",
+      "content_hash": "546bac79f5c311dae1e38d4649f478c4cb358fd1dd1001b8b07b4a3b2538ed12",
+      "target_path": "计算机基础/软件工程/2025-10-20-系统设计原则.md",
+      "status": "published",
+      "image_count": 4
+    },
+    "yuque:doc:236795880": {
+      "doc_id": 236795880,
+      "source_namespace": "mubuzhuanjing-ow8jw/px00ou",
+      "source_slug": "ok1m43vcfitexmrk",
+      "source_title": "经济可行性分析",
+      "created_at": "2025-09-14T23:50:15.000Z",
+      "updated_at": "2025-12-01T09:31:55.000Z",
+      "content_hash": "44649f37f7d9dde9ec3989fc41c45a7191796654c6ae433f6fe9d3f5f17e887b",
+      "target_path": "计算机基础/软件工程/2025-09-14-经济可行性分析.md",
+      "status": "published",
+      "image_count": 1
     }
   }
 }
