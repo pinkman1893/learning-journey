@@ -1882,7 +1882,7 @@
       "source_title": "Lecture 2 Functions 函数",
       "created_at": "2025-09-01T01:09:09.000Z",
       "updated_at": "2025-09-15T07:24:42.000Z",
-      "content_hash": "51f4861e091a20a88eee5f8b9a0514ef8d10faba7c3f52dbea0a16cc363e25b1",
+      "content_hash": "80962c7f71a5e2c7c72437b17d2e973a3fc93a4967f7bf7823099725467686fc",
       "target_path": "编程语言/Python/2025-09-01-Python函数控制与高阶函数.md",
       "status": "published_merged",
       "image_count": 2
@@ -1894,7 +1894,7 @@
       "source_title": "Lecture 3 Control 控制",
       "created_at": "2025-09-15T06:12:48.000Z",
       "updated_at": "2025-09-15T07:18:40.000Z",
-      "content_hash": "51f4861e091a20a88eee5f8b9a0514ef8d10faba7c3f52dbea0a16cc363e25b1",
+      "content_hash": "80962c7f71a5e2c7c72437b17d2e973a3fc93a4967f7bf7823099725467686fc",
       "target_path": "编程语言/Python/2025-09-01-Python函数控制与高阶函数.md",
       "status": "published_merged",
       "image_count": 0
@@ -1906,10 +1906,34 @@
       "source_title": "Lecture 4 Higher-Order Functions 高阶函数",
       "created_at": "2025-09-08T10:09:53.000Z",
       "updated_at": "2025-09-16T12:06:20.000Z",
-      "content_hash": "51f4861e091a20a88eee5f8b9a0514ef8d10faba7c3f52dbea0a16cc363e25b1",
+      "content_hash": "80962c7f71a5e2c7c72437b17d2e973a3fc93a4967f7bf7823099725467686fc",
       "target_path": "编程语言/Python/2025-09-01-Python函数控制与高阶函数.md",
       "status": "published_merged",
       "image_count": 0
+    },
+    "yuque:doc:237806065": {
+      "doc_id": 237806065,
+      "source_namespace": "mubuzhuanjing-ow8jw/px00ou",
+      "source_slug": "lzo8i5x76pgf5aod",
+      "source_title": "Lecture 5 Environment diagram 环境图表",
+      "created_at": "2025-09-22T01:34:50.000Z",
+      "updated_at": "2025-09-22T04:00:28.000Z",
+      "content_hash": "80962c7f71a5e2c7c72437b17d2e973a3fc93a4967f7bf7823099725467686fc",
+      "target_path": "编程语言/Python/2025-09-01-Python函数控制与高阶函数.md",
+      "status": "published_merged",
+      "image_count": 5
+    },
+    "yuque:doc:225797359": {
+      "doc_id": 225797359,
+      "source_namespace": "mubuzhuanjing-ow8jw/px00ou",
+      "source_slug": "ieqtl7lp1h1c93zf",
+      "source_title": "前端框架vue3&Uniapp",
+      "created_at": "2025-06-29T00:34:06.000Z",
+      "updated_at": "2025-07-04T00:54:36.000Z",
+      "content_hash": "2bdc30b845898180ad4e6a6d3f9020310080673d627f68be5e1d26e68f0ad5d0",
+      "target_path": "Web开发/前端框架/2025-06-29-Vue3与UniApp开发基础.md",
+      "status": "published",
+      "image_count": 30
     }
   }
 }
