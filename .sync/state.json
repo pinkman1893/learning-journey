@@ -1682,6 +1682,42 @@
       "target_path": "数据结构与算法/树结构/2025-12-08-堆与优先队列.md",
       "status": "published",
       "image_count": 10
+    },
+    "yuque:doc:248946364": {
+      "doc_id": 248946364,
+      "source_namespace": "mubuzhuanjing-ow8jw/px00ou",
+      "source_slug": "rgxt3zlbdznr3xpa",
+      "source_title": "【√】第十三章：searching & the hash classes 查找与哈希类",
+      "created_at": "2025-12-15T11:20:53.000Z",
+      "updated_at": "2025-12-29T16:35:23.000Z",
+      "content_hash": "e9f6c60f94665447e7ac3b06c25c21ee64c0ce20ca7b9a3d11fc611224169a57",
+      "target_path": "数据结构与算法/哈希与查找/2025-12-15-查找与哈希.md",
+      "status": "published",
+      "image_count": 8
+    },
+    "yuque:doc:234847297": {
+      "doc_id": 234847297,
+      "source_namespace": "mubuzhuanjing-ow8jw/px00ou",
+      "source_slug": "ai056dehxs47bqo5",
+      "source_title": "第一章：系统",
+      "created_at": "2025-09-01T10:10:06.000Z",
+      "updated_at": "2025-10-20T00:16:47.000Z",
+      "content_hash": "5cabecd82d6b3dfc23e7b4035aeb39a00aca35587717b74ddc325ae2031fb624",
+      "target_path": "计算机基础/软件工程/2025-09-01-软件系统与需求获取.md",
+      "status": "published",
+      "image_count": 7
+    },
+    "yuque:doc:235917822": {
+      "doc_id": 235917822,
+      "source_namespace": "mubuzhuanjing-ow8jw/px00ou",
+      "source_slug": "ggbkv49kvyhw9hyg",
+      "source_title": "第二章：需求获取",
+      "created_at": "2025-09-08T09:43:01.000Z",
+      "updated_at": "2025-12-15T09:01:11.000Z",
+      "content_hash": "5cabecd82d6b3dfc23e7b4035aeb39a00aca35587717b74ddc325ae2031fb624",
+      "target_path": "计算机基础/软件工程/2025-09-01-软件系统与需求获取.md",
+      "status": "published",
+      "image_count": 0
     }
   }
 }
