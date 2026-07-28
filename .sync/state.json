@@ -1646,6 +1646,42 @@
       "target_path": "数据结构与算法/树结构/2025-11-03-二叉树与二叉搜索树.md",
       "status": "published",
       "image_count": 38
+    },
+    "yuque:doc:246042641": {
+      "doc_id": 246042641,
+      "source_namespace": "mubuzhuanjing-ow8jw/px00ou",
+      "source_slug": "tgzyacqk1oif710l",
+      "source_title": "【√】第九章：AVL TREES 平衡二叉树",
+      "created_at": "2025-11-24T11:56:59.000Z",
+      "updated_at": "2025-12-29T14:34:35.000Z",
+      "content_hash": "b2602b1929136685fc25da3267345b39898377f087f9d8b8ca8a17b158ea6298",
+      "target_path": "数据结构与算法/树结构/2025-11-24-AVL树.md",
+      "status": "published",
+      "image_count": 21
+    },
+    "yuque:doc:246042687": {
+      "doc_id": 246042687,
+      "source_namespace": "mubuzhuanjing-ow8jw/px00ou",
+      "source_slug": "eoud5sf0m8urovcx",
+      "source_title": "【√】第十章：Red Black Tree 红黑树",
+      "created_at": "2025-11-24T11:57:31.000Z",
+      "updated_at": "2025-12-29T16:11:30.000Z",
+      "content_hash": "223d9208d37af9f44b34da28f73816fa968886929646ed9162092f7f588ef1bc",
+      "target_path": "数据结构与算法/树结构/2025-11-24-红黑树.md",
+      "status": "published",
+      "image_count": 18
+    },
+    "yuque:doc:247950855": {
+      "doc_id": 247950855,
+      "source_namespace": "mubuzhuanjing-ow8jw/px00ou",
+      "source_slug": "mq13y7h85s92eihc",
+      "source_title": "【√】第十一章：heap & priority queue 堆和优先队列",
+      "created_at": "2025-12-08T11:57:20.000Z",
+      "updated_at": "2025-12-30T00:52:04.000Z",
+      "content_hash": "dbfc5e998e9d02f27236460cf74625cc3c8d4ba8e092ed6bb243ef70d6921861",
+      "target_path": "数据结构与算法/树结构/2025-12-08-堆与优先队列.md",
+      "status": "published",
+      "image_count": 10
     }
   }
 }
