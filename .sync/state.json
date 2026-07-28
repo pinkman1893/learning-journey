@@ -1610,6 +1610,42 @@
       "target_path": "数据结构与算法/STL与容器/2025-10-13-Vector与Deque.md",
       "status": "published",
       "image_count": 14
+    },
+    "yuque:doc:242226411": {
+      "doc_id": 242226411,
+      "source_namespace": "mubuzhuanjing-ow8jw/px00ou",
+      "source_slug": "cdog5ue5h57siruo",
+      "source_title": "【√】第六章：list 双向链表",
+      "created_at": "2025-10-27T11:42:54.000Z",
+      "updated_at": "2025-12-27T11:35:57.000Z",
+      "content_hash": "c385ff353b8a65a25f0b89ea9a811cf0ccb9db28726457c8ef1bf385dce061fc",
+      "target_path": "数据结构与算法/STL与容器/2025-10-27-List双向链表.md",
+      "status": "published",
+      "image_count": 9
+    },
+    "yuque:doc:242237525": {
+      "doc_id": 242237525,
+      "source_namespace": "mubuzhuanjing-ow8jw/px00ou",
+      "source_slug": "zg37bdlvommer5xq",
+      "source_title": "【√】第七章：Queue & Stack",
+      "created_at": "2025-10-27T13:22:47.000Z",
+      "updated_at": "2026-03-14T08:16:57.000Z",
+      "content_hash": "53ca3d64879133dec212be7fed8cdacd7ad490dc894706c414298005de12e14b",
+      "target_path": "数据结构与算法/STL与容器/2025-10-27-Queue与Stack.md",
+      "status": "published",
+      "image_count": 16
+    },
+    "yuque:doc:243213700": {
+      "doc_id": 243213700,
+      "source_namespace": "mubuzhuanjing-ow8jw/px00ou",
+      "source_slug": "kk0an7izllv2dhaf",
+      "source_title": "【√】第八章：二叉树&二叉搜索树",
+      "created_at": "2025-11-03T11:14:50.000Z",
+      "updated_at": "2025-12-29T23:44:06.000Z",
+      "content_hash": "1411d558dd85eeea7a1914fe4d4a19c4daa1d5e03752cc1ab77f7b29c005e2a5",
+      "target_path": "数据结构与算法/树结构/2025-11-03-二叉树与二叉搜索树.md",
+      "status": "published",
+      "image_count": 38
     }
   }
 }
