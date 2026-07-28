@@ -67,6 +67,7 @@
 - [Python：Seaborn 高级数据可视化](编程语言/Python/2025-12-14-Seaborn高级数据可视化.md)
 - [Python：数据预处理](编程语言/Python/2025-12-09-数据预处理.md)
 - [Python：Pandas 统计分析](编程语言/Python/2025-12-07-Pandas统计分析.md)
+- [Python：函数、控制语句与高阶函数](编程语言/Python/2025-09-01-Python函数控制与高阶函数.md)
 - [Python：NumPy 数组运算与广播](编程语言/Python/2025-01-17-NumPy数组运算与广播.md)
 - [Python：NumPy 矩阵操作](编程语言/Python/2025-01-17-NumPy矩阵操作.md)
 - [Python：NumPy 数组基础](编程语言/Python/2025-01-16-NumPy数组基础.md)

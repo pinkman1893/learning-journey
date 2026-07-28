@@ -1874,6 +1874,42 @@
       "target_path": "AI工具与实践/提示词/2026-07-27-前端视觉设计提示词.md",
       "status": "published",
       "image_count": 0
+    },
+    "yuque:doc:234742694": {
+      "doc_id": 234742694,
+      "source_namespace": "mubuzhuanjing-ow8jw/px00ou",
+      "source_slug": "dyxg47h018sg1owk",
+      "source_title": "Lecture 2 Functions 函数",
+      "created_at": "2025-09-01T01:09:09.000Z",
+      "updated_at": "2025-09-15T07:24:42.000Z",
+      "content_hash": "51f4861e091a20a88eee5f8b9a0514ef8d10faba7c3f52dbea0a16cc363e25b1",
+      "target_path": "编程语言/Python/2025-09-01-Python函数控制与高阶函数.md",
+      "status": "published_merged",
+      "image_count": 2
+    },
+    "yuque:doc:236853686": {
+      "doc_id": 236853686,
+      "source_namespace": "mubuzhuanjing-ow8jw/px00ou",
+      "source_slug": "tqusv012qgqc9rs2",
+      "source_title": "Lecture 3 Control 控制",
+      "created_at": "2025-09-15T06:12:48.000Z",
+      "updated_at": "2025-09-15T07:18:40.000Z",
+      "content_hash": "51f4861e091a20a88eee5f8b9a0514ef8d10faba7c3f52dbea0a16cc363e25b1",
+      "target_path": "编程语言/Python/2025-09-01-Python函数控制与高阶函数.md",
+      "status": "published_merged",
+      "image_count": 0
+    },
+    "yuque:doc:235921235": {
+      "doc_id": 235921235,
+      "source_namespace": "mubuzhuanjing-ow8jw/px00ou",
+      "source_slug": "qn8mg16gyr6yyigs",
+      "source_title": "Lecture 4 Higher-Order Functions 高阶函数",
+      "created_at": "2025-09-08T10:09:53.000Z",
+      "updated_at": "2025-09-16T12:06:20.000Z",
+      "content_hash": "51f4861e091a20a88eee5f8b9a0514ef8d10faba7c3f52dbea0a16cc363e25b1",
+      "target_path": "编程语言/Python/2025-09-01-Python函数控制与高阶函数.md",
+      "status": "published_merged",
+      "image_count": 0
     }
   }
 }
