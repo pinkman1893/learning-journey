@@ -1826,6 +1826,54 @@
       "target_path": "人工智能/机器学习/2025-03-20-机器学习基础与回归模型.md",
       "status": "published_merged",
       "image_count": 0
+    },
+    "yuque:doc:279201578": {
+      "doc_id": 279201578,
+      "source_namespace": "mubuzhuanjing-ow8jw/sshmn5",
+      "source_slug": "zocdzglxwt75ydls",
+      "source_title": "260728 CC Switch——claude desktop 接入 deepseek",
+      "created_at": "2026-07-27T15:03:52.000Z",
+      "updated_at": "2026-07-28T05:25:14.000Z",
+      "content_hash": "74519b4e8c9b1d48c6b970c9cb8e6c2178c1e8c048fc0244cca8ce732c107f73",
+      "target_path": "AI工具与实践/2026-07-27-CC-Switch配置与路由.md",
+      "status": "published",
+      "image_count": 4
+    },
+    "yuque:doc:279199726": {
+      "doc_id": 279199726,
+      "source_namespace": "mubuzhuanjing-ow8jw/sshmn5",
+      "source_slug": "nga1trgfsqoptiol",
+      "source_title": "【1】- 何为harness？",
+      "created_at": "2026-07-27T14:28:52.000Z",
+      "updated_at": "2026-07-28T07:45:24.000Z",
+      "content_hash": "ab15767ef13e0902964068c9a344fbac152175bda74d271e0b6368ddf020c822",
+      "target_path": "智能体工程/Harness-Engineering/2026-07-28-【1】何为Harness——Harness-Engineering概念与架构.md",
+      "status": "published",
+      "image_count": 1
+    },
+    "yuque:doc:278733801": {
+      "doc_id": 278733801,
+      "source_namespace": "mubuzhuanjing-ow8jw/sshmn5",
+      "source_slug": "yi5q95s2bsfr1qyx",
+      "source_title": "第一章：初识智能体",
+      "created_at": "2026-07-23T07:17:34.000Z",
+      "updated_at": "2026-07-28T07:55:26.000Z",
+      "content_hash": "6f13eeabd48ba28e0ca47a02156d8178eb084d71efbea04bf16e0428cd668062",
+      "target_path": "智能体工程/Hello-Agents 《从零开始构建智能体》/2026-07-23-第一章：智能体基础与Agent-Loop.md",
+      "status": "published",
+      "image_count": 6
+    },
+    "yuque:doc:279199833": {
+      "doc_id": 279199833,
+      "source_namespace": "mubuzhuanjing-ow8jw/sshmn5",
+      "source_slug": "xg2sqe1e3eitpc4v",
+      "source_title": "前端提示词学习存档",
+      "created_at": "2026-07-27T14:30:40.000Z",
+      "updated_at": "2026-07-27T14:33:01.000Z",
+      "content_hash": "4d3e3860072166e4bd35ba7333d520c19c41e96f02bd6595b7d8d43e724b627c",
+      "target_path": "AI工具与实践/提示词/2026-07-27-前端视觉设计提示词.md",
+      "status": "published",
+      "image_count": 0
     }
   }
 }
