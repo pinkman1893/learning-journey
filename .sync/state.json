@@ -1946,6 +1946,18 @@
       "target_path": "智能体工程/Hello-Agents 《从零开始构建智能体》/2026-07-28-第二章：智能体发展史.md",
       "status": "published",
       "image_count": 4
+    },
+    "yuque:doc:279328340": {
+      "doc_id": 279328340,
+      "source_namespace": "mubuzhuanjing-ow8jw/sshmn5",
+      "source_slug": "rglv1v6e5825l2uw",
+      "source_title": "第三章：大语言模型基础1——语言模型的发展",
+      "created_at": "2026-07-28T13:42:26.000Z",
+      "updated_at": "2026-08-03T23:43:50.000Z",
+      "content_hash": "3762db562f076f59cff4234436ed12e9a3398f161561c81b1d7ce6266c5997a2",
+      "target_path": "智能体工程/Hello-Agents 《从零开始构建智能体》/2026-07-28-第三章【1】：语言模型的发展.md",
+      "status": "published",
+      "image_count": 22
     }
   }
 }
