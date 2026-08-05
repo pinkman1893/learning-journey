@@ -510,7 +510,7 @@
       "created_at": "2024-11-04T10:06:49.000Z",
       "updated_at": "2024-11-05T13:08:16.000Z",
       "content_hash": "2230eeb718d94a22bdc585af51cc3720ecfff88ceb70f266ec9ce2022df4a85d",
-      "target_path": "Web开发/HTML基础/2024-11-04-前端与HTML语义化.md",
+      "target_path": "Web开发/HTML基础/2024-11-04-前端基础与HTML语义化.md",
       "status": "published",
       "image_count": 3
     },
@@ -1751,7 +1751,7 @@
       "created_at": "2025-09-14T23:50:15.000Z",
       "updated_at": "2025-12-01T09:31:55.000Z",
       "content_hash": "44649f37f7d9dde9ec3989fc41c45a7191796654c6ae433f6fe9d3f5f17e887b",
-      "target_path": "计算机基础/软件工程/2025-09-14-经济可行性分析.md",
+      "target_path": "计算机基础/软件工程/2025-09-15-经济可行性分析.md",
       "status": "published",
       "image_count": 1
     },
@@ -1847,7 +1847,7 @@
       "created_at": "2026-07-27T14:28:52.000Z",
       "updated_at": "2026-07-28T07:45:24.000Z",
       "content_hash": "ab15767ef13e0902964068c9a344fbac152175bda74d271e0b6368ddf020c822",
-      "target_path": "智能体工程/Harness-Engineering/2026-07-28-【1】何为Harness——Harness-Engineering概念与架构.md",
+      "target_path": "智能体工程/Harness-Engineering/2026-07-27-【1】何为Harness——Harness-Engineering概念与架构.md",
       "status": "published",
       "image_count": 1
     },
@@ -1955,7 +1955,7 @@
       "created_at": "2026-07-28T13:42:26.000Z",
       "updated_at": "2026-08-03T23:43:50.000Z",
       "content_hash": "3762db562f076f59cff4234436ed12e9a3398f161561c81b1d7ce6266c5997a2",
-      "target_path": "智能体工程/Hello-Agents 《从零开始构建智能体》/2026-07-28-第三章【1】：语言模型的发展.md",
+      "target_path": "智能体工程/Hello-Agents 《从零开始构建智能体》/2026-07-28-第三章第一节：语言模型的发展.md",
       "status": "published",
       "image_count": 22
     },
@@ -1967,7 +1967,7 @@
       "created_at": "2026-08-03T23:43:45.000Z",
       "updated_at": "2026-08-04T03:07:55.000Z",
       "content_hash": "e11bb30ed0ba6655acaa0a9ccb38ef8ff0c82846961d72c1a53380f9943ccf96",
-      "target_path": "智能体工程/Hello-Agents 《从零开始构建智能体》/2026-08-04-第三章【2】：语言模型基本应用.md",
+      "target_path": "智能体工程/Hello-Agents 《从零开始构建智能体》/2026-08-04-第三章第二节：语言模型基本应用.md",
       "status": "published",
       "image_count": 9
     },
