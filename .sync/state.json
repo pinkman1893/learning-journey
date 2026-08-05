@@ -1977,11 +1977,11 @@
       "source_slug": "quecxf00z0hg037y",
       "source_title": "MoE架构（Mixture of Expert，混合专家）",
       "created_at": "2026-08-03T23:46:00.000Z",
-      "updated_at": "2026-08-05T06:55:38.000Z",
-      "content_hash": "726a600aeb912c5b8edb24933ca7611f9982ef79a565c81b56560c730610ca82",
+      "updated_at": "2026-08-05T08:03:17.000Z",
+      "content_hash": "c9b516447ceeab01083facdc2ccc845808f25655cf27e006bcf936e32125bfe4",
       "target_path": "人工智能/大语言模型/2026-08-04-MoE架构与负载均衡.md",
-      "status": "published_draft",
-      "image_count": 17
+      "status": "published",
+      "image_count": 18
     }
   }
 }
