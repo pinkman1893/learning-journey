@@ -13,7 +13,7 @@
 | --- | --- |
 | [智能体工程](智能体工程/README.md) | Hello-Agents、Agent Loop、智能体发展与 Harness Engineering |
 | [AI 工具与实践](AI工具与实践/README.md) | Codex、Subagents、FastCtx、提示词与 AI 工具实践 |
-| [人工智能](人工智能/README.md) | 大语言模型、机器学习、RAG 与 GraphRAG |
+| [人工智能](人工智能/README.md) | 大语言模型、机器学习、AI 领域观察与社会思考 |
 | [数据结构与算法](数据结构与算法/README.md) | 算法基础、STL 与容器、树结构、查找与哈希 |
 | [编程语言](编程语言/README.md) | C、C++、Python、JavaScript 与领域特定语言 DSL |
 | [Web 开发](Web开发/README.md) | HTML、CSS、JavaScript、前端工程、框架与网站部署 |
@@ -27,6 +27,8 @@
   - [Hello-Agents《从零开始构建智能体》](智能体工程/Hello-Agents%20《从零开始构建智能体》/README.md)
   - [Harness Engineering 学习实践](智能体工程/Harness-Engineering/README.md)
 - **AI 与大语言模型**
+  - [AI 领域观察](人工智能/AI领域观察/README.md)
+  - [AI 与社会](人工智能/AI与社会/README.md)
   - [大语言模型](人工智能/大语言模型/README.md)
   - [检索增强生成：RAG 与 GraphRAG](人工智能/检索增强生成/README.md)
   - [机器学习](人工智能/机器学习/README.md)
@@ -40,24 +42,25 @@
 
 ## 最近整理
 
+- `2026-08-20` [DSH 的护甲设计与破甲思路](智能体工程/Harness-Engineering/2026-08-20-DSH的护甲设计与破甲思路.md)
+- `2026-08-20` [AI 领域热知识](人工智能/AI领域观察/2026-08-20-AI领域热知识.md)
+- `2026-08-20` [AI 浪潮下的思考——自主性、学习与能力分化](人工智能/AI与社会/2026-08-20-AI浪潮下的思考——自主性学习与能力分化.md)
 - `2026-08-07` [模型量化压缩 Quantization](人工智能/大语言模型/2026-08-07-模型量化压缩Quantization.md)
 - `2026-08-04` [MoE 混合专家模型](人工智能/大语言模型/2026-08-04-MoE混合专家模型.md)
 - `2026-08-04` [Hello-Agents 第三章第二节：语言模型基本应用](智能体工程/Hello-Agents%20《从零开始构建智能体》/2026-08-04-第三章第二节：语言模型基本应用.md)
 - `2026-07-28` [Hello-Agents 第三章第一节：语言模型的发展](智能体工程/Hello-Agents%20《从零开始构建智能体》/2026-07-28-第三章第一节：语言模型的发展.md)
 - `2026-07-28` [Hello-Agents 第二章：智能体发展史](智能体工程/Hello-Agents%20《从零开始构建智能体》/2026-07-28-第二章：智能体发展史.md)
-- `2026-07-27` [【1】何为 Harness——Harness Engineering 概念与架构](智能体工程/Harness-Engineering/2026-07-27-【1】何为Harness——Harness-Engineering概念与架构.md)
-- `2026-07-27` [CC Switch 配置与路由](AI工具与实践/2026-07-27-CC-Switch配置与路由.md)
-- `2026-07-27` [前端视觉设计提示词](AI工具与实践/提示词/2026-07-27-前端视觉设计提示词.md)
 
 ## 完整笔记导航
 
 以下导航收录仓库中的全部笔记，按领域和主题分组并直接完整展示；点击领域或主题名称可进入对应的专题 README。
 
 <!-- BEGIN AUTO-GENERATED:COMPLETE-NAV -->
-### [智能体工程](智能体工程/README.md)（5）
+### [智能体工程](智能体工程/README.md)（6）
 
-#### [Harness-Engineering](智能体工程/Harness-Engineering/README.md)（1）
+#### [Harness-Engineering](智能体工程/Harness-Engineering/README.md)（2）
 
+- `2026-08-20` [DSH 的护甲设计与破甲思路](智能体工程/Harness-Engineering/2026-08-20-DSH的护甲设计与破甲思路.md)
 - `2026-07-27` [【1】何为 Harness——Harness Engineering 概念与架构](智能体工程/Harness-Engineering/2026-07-27-【1】何为Harness——Harness-Engineering概念与架构.md)
 
 #### [Hello-Agents 《从零开始构建智能体》](智能体工程/Hello-Agents%20《从零开始构建智能体》/README.md)（4）
@@ -82,7 +85,15 @@
 
 - `2026-07-27` [前端视觉设计提示词](AI工具与实践/提示词/2026-07-27-前端视觉设计提示词.md)
 
-### [人工智能](人工智能/README.md)（13）
+### [人工智能](人工智能/README.md)（15）
+
+#### [AI与社会](人工智能/AI与社会/README.md)（1）
+
+- `2026-08-20` [AI 浪潮下的思考——自主性、学习与能力分化](人工智能/AI与社会/2026-08-20-AI浪潮下的思考——自主性学习与能力分化.md)
+
+#### [AI领域观察](人工智能/AI领域观察/README.md)（1）
+
+- `2026-08-20` [AI 领域热知识](人工智能/AI领域观察/2026-08-20-AI领域热知识.md)
 
 #### [大语言模型](人工智能/大语言模型/README.md)（10）
 

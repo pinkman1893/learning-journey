@@ -1994,6 +1994,42 @@
       "target_path": "人工智能/大语言模型/2026-08-07-模型量化压缩Quantization.md",
       "status": "published",
       "image_count": 25
+    },
+    "yuque:doc:282112284": {
+      "doc_id": 282112284,
+      "source_namespace": "mubuzhuanjing-ow8jw/sshmn5",
+      "source_slug": "wewq6thpebilgalh",
+      "source_title": "DSH的护甲设计与破甲思路",
+      "created_at": "2026-08-20T12:58:43.000Z",
+      "updated_at": "2026-08-20T14:33:17.000Z",
+      "content_hash": "5b7b3f9303128ddd0c1ec9ee78314fa6e6ca1e9cdcd7a7cb64a1227d4661ff08",
+      "target_path": "智能体工程/Harness-Engineering/2026-08-20-DSH的护甲设计与破甲思路.md",
+      "status": "published",
+      "image_count": 3
+    },
+    "yuque:doc:282113417": {
+      "doc_id": 282113417,
+      "source_namespace": "mubuzhuanjing-ow8jw/sshmn5",
+      "source_slug": "rd0ww2negmogzgqt",
+      "source_title": "AI领域小知识",
+      "created_at": "2026-08-20T13:16:49.000Z",
+      "updated_at": "2026-08-20T14:31:26.000Z",
+      "content_hash": "2007d969f8c32d1d8e9b8e2941f11dc1e72fa1e834efd47cb94e8bee32fd3a36",
+      "target_path": "人工智能/AI领域观察/2026-08-20-AI领域热知识.md",
+      "status": "published",
+      "image_count": 2
+    },
+    "yuque:doc:282112810": {
+      "doc_id": 282112810,
+      "source_namespace": "mubuzhuanjing-ow8jw/sshmn5",
+      "source_slug": "rw8izs1u0iglbtfh",
+      "source_title": "AI浪潮下的思考",
+      "created_at": "2026-08-20T13:06:42.000Z",
+      "updated_at": "2026-08-20T14:31:39.000Z",
+      "content_hash": "85282367b653a1f018fe82916890e03b5c10f7a65d09dbf94b7ffad5ccf96459",
+      "target_path": "人工智能/AI与社会/2026-08-20-AI浪潮下的思考——自主性学习与能力分化.md",
+      "status": "published",
+      "image_count": 0
     }
   }
 }
