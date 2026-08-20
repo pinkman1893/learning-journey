@@ -1989,11 +1989,11 @@
       "source_slug": "qxu60ocg62v1naz0",
       "source_title": "模型量化压缩 Quantization",
       "created_at": "2026-08-06T23:48:44.000Z",
-      "updated_at": "2026-08-20T08:00:07.000Z",
-      "content_hash": "51b92ca54fc42416b9a7a9cc52b1b1efdf13501da8030e829a4a57b55fc4bcdd",
+      "updated_at": "2026-08-20T10:07:07.000Z",
+      "content_hash": "6735d7beee5b4fa0a3f0ac5d814e55ac03ac0d641ed8c570ab439e463c85612f",
       "target_path": "人工智能/大语言模型/2026-08-07-模型量化压缩Quantization.md",
       "status": "published",
-      "image_count": 18
+      "image_count": 25
     }
   }
 }
