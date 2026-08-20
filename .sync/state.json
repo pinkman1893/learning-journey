@@ -1982,6 +1982,18 @@
       "target_path": "人工智能/大语言模型/2026-08-04-MoE混合专家模型.md",
       "status": "published",
       "image_count": 18
+    },
+    "yuque:doc:280475462": {
+      "doc_id": 280475462,
+      "source_namespace": "mubuzhuanjing-ow8jw/sshmn5",
+      "source_slug": "qxu60ocg62v1naz0",
+      "source_title": "模型量化压缩 Quantization",
+      "created_at": "2026-08-06T23:48:44.000Z",
+      "updated_at": "2026-08-20T08:00:07.000Z",
+      "content_hash": "833041fe6c8665faa89301f9d8ab41fb85929d3540c7d7676d599a5ec976fb08",
+      "target_path": "人工智能/大语言模型/2026-08-07-模型量化压缩Quantization.md",
+      "status": "published",
+      "image_count": 18
     }
   }
 }
