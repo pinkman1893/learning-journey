@@ -2030,6 +2030,18 @@
       "target_path": "人工智能/AI与社会/2026-08-20-AI浪潮下的思考——自主性学习与能力分化.md",
       "status": "published",
       "image_count": 0
+    },
+    "yuque:doc:282357995": {
+      "doc_id": 282357995,
+      "source_namespace": "mubuzhuanjing-ow8jw/sshmn5",
+      "source_slug": "ratz4bth3l0431a8",
+      "source_title": "Sandbox 沙箱技术",
+      "created_at": "2026-08-23T01:51:35.000Z",
+      "updated_at": "2026-08-23T09:31:35.000Z",
+      "content_hash": "11e56d1107634a43945a225c5367fa7fb7e98d33b00bb5c44a9777674c1f76b0",
+      "target_path": "智能体工程/Harness-Engineering/2026-08-23-Sandbox沙箱技术.md",
+      "status": "published",
+      "image_count": 4
     }
   }
 }

@@ -42,6 +42,7 @@
 
 ## 最近整理
 
+- `2026-08-23` [Sandbox 沙箱技术](智能体工程/Harness-Engineering/2026-08-23-Sandbox沙箱技术.md)
 - `2026-08-20` [DSH 的护甲设计与破甲思路](智能体工程/Harness-Engineering/2026-08-20-DSH的护甲设计与破甲思路.md)
 - `2026-08-20` [AI 领域热知识](人工智能/AI领域观察/2026-08-20-AI领域热知识.md)
 - `2026-08-20` [AI 浪潮下的思考——自主性、学习与能力分化](人工智能/AI与社会/2026-08-20-AI浪潮下的思考——自主性学习与能力分化.md)
@@ -49,17 +50,17 @@
 - `2026-08-04` [MoE 混合专家模型](人工智能/大语言模型/2026-08-04-MoE混合专家模型.md)
 - `2026-08-04` [Hello-Agents 第三章第二节：语言模型基本应用](智能体工程/Hello-Agents%20《从零开始构建智能体》/2026-08-04-第三章第二节：语言模型基本应用.md)
 - `2026-07-28` [Hello-Agents 第三章第一节：语言模型的发展](智能体工程/Hello-Agents%20《从零开始构建智能体》/2026-07-28-第三章第一节：语言模型的发展.md)
-- `2026-07-28` [Hello-Agents 第二章：智能体发展史](智能体工程/Hello-Agents%20《从零开始构建智能体》/2026-07-28-第二章：智能体发展史.md)
 
 ## 完整笔记导航
 
 以下导航收录仓库中的全部笔记，按领域和主题分组并直接完整展示；点击领域或主题名称可进入对应的专题 README。
 
 <!-- BEGIN AUTO-GENERATED:COMPLETE-NAV -->
-### [智能体工程](智能体工程/README.md)（6）
+### [智能体工程](智能体工程/README.md)（7）
 
-#### [Harness-Engineering](智能体工程/Harness-Engineering/README.md)（2）
+#### [Harness-Engineering](智能体工程/Harness-Engineering/README.md)（3）
 
+- `2026-08-23` [Sandbox 沙箱技术](智能体工程/Harness-Engineering/2026-08-23-Sandbox沙箱技术.md)
 - `2026-08-20` [DSH 的护甲设计与破甲思路](智能体工程/Harness-Engineering/2026-08-20-DSH的护甲设计与破甲思路.md)
 - `2026-07-27` [【1】何为 Harness——Harness Engineering 概念与架构](智能体工程/Harness-Engineering/2026-07-27-【1】何为Harness——Harness-Engineering概念与架构.md)
 
