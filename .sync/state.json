@@ -2054,6 +2054,18 @@
       "target_path": "计算机基础/云服务应用开发与迁移/2026-08-24-Day1：概念与环境部署.md",
       "status": "published",
       "image_count": 0
+    },
+    "yuque:doc:282608837": {
+      "doc_id": 282608837,
+      "source_namespace": "mubuzhuanjing-ow8jw/sshmn5",
+      "source_slug": "bgdqqqy5oqnezncv",
+      "source_title": "Day2：服务器运维工具：宝塔的配置与使用",
+      "created_at": "2026-08-25T06:48:52.000Z",
+      "updated_at": "2026-08-25T13:52:27.000Z",
+      "content_hash": "e0805890a5579a03aeef18f4164de0748921a44543df47908600d09b378166ec",
+      "target_path": "计算机基础/云服务应用开发与迁移/2026-08-25-Day2：宝塔配置与云服务项目部署.md",
+      "status": "published",
+      "image_count": 10
     }
   }
 }
