@@ -2078,6 +2078,18 @@
       "target_path": "计算机基础/云服务应用开发与迁移/2026-08-26-Day3：Nginx的配置与应用——云服务的反向代理与负载均衡.md",
       "status": "published",
       "image_count": 2
+    },
+    "yuque:doc:282701398": {
+      "doc_id": 282701398,
+      "source_namespace": "mubuzhuanjing-ow8jw/sshmn5",
+      "source_slug": "ukedwc2moc3hot1k",
+      "source_title": "世界模型 World Model",
+      "created_at": "2026-08-26T01:27:56.000Z",
+      "updated_at": "2026-08-26T12:36:08.000Z",
+      "content_hash": "88c0ccba92ae7b342bf4ab0b12e21d3ba8f4c49d93f9e05247769605ad424323",
+      "target_path": "人工智能/世界模型/2026-08-26-世界模型World-Model.md",
+      "status": "published",
+      "image_count": 6
     }
   }
 }
