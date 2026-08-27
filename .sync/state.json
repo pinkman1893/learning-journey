@@ -2090,6 +2090,18 @@
       "target_path": "人工智能/世界模型/2026-08-26-世界模型World-Model.md",
       "status": "published",
       "image_count": 6
+    },
+    "yuque:doc:282861684": {
+      "doc_id": 282861684,
+      "source_namespace": "mubuzhuanjing-ow8jw/sshmn5",
+      "source_slug": "xuro1ozq2f8y4hzs",
+      "source_title": "Day4：数据交互与Fast API",
+      "created_at": "2026-08-27T05:48:48.000Z",
+      "updated_at": "2026-08-27T14:17:02.000Z",
+      "content_hash": "22d5eb438e7565de381aa4ecf41a6ba2c30df0772aef8b835ba23a96db49ef02",
+      "target_path": "计算机基础/云服务应用开发与迁移/2026-08-27-Day4：JSON数据交互与RESTful-API——Spring-Boot接口开发与Swagger调试.md",
+      "status": "published",
+      "image_count": 5
     }
   }
 }
