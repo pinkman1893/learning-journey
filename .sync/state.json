@@ -2114,6 +2114,18 @@
       "target_path": "计算机基础/云服务应用开发与迁移/2026-08-28-Day5：Docker容器部署——镜像构建容器运行与Docker-Compose.md",
       "status": "published",
       "image_count": 17
+    },
+    "yuque:doc:284361377": {
+      "doc_id": 284361377,
+      "source_namespace": "mubuzhuanjing-ow8jw/sshmn5",
+      "source_slug": "rkifwon28bu1b4y9",
+      "source_title": "Week1：Java Web 技术演进与单体应用基础",
+      "created_at": "2026-09-08T02:10:32.000Z",
+      "updated_at": "2026-09-08T05:54:47.000Z",
+      "content_hash": "7befae8eedea8cdb7c22915fec19e24ed5baffab213cb655cdbe8d656e8b7cf5",
+      "target_path": "计算机基础/微服务与分布式架构/2026-09-08-Week1：Java-Web技术演进与单体应用基础.md",
+      "status": "published",
+      "image_count": 0
     }
   }
 }
