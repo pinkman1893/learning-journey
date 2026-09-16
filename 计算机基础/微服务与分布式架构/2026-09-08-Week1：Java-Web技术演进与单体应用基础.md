@@ -168,7 +168,7 @@ Spring Boot → Spring MVC + 内嵌 Tomcat
 
 #### 是什么
 
-Java 项目中常用的项目管理工具。
+Maven 是常见的 Java 项目管理、依赖管理与构建工具。
 
 #### 为什么出现
 
@@ -321,5 +321,6 @@ Spring Boot 项目常见两种配置文件形式：`application.properties`（�
 
 | 日期 | 类型 | 说明 |
 | --- | --- | --- |
+| 2026-09-08 | 内容更新 | 补充 Maven 的依赖管理与项目构建职责 |
 | 2026-09-08 | 首次发布 | 从语雀整理并发布到学习记录仓库 |
 <!-- learning-journey:update-history:end -->

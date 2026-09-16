@@ -2115,17 +2115,41 @@
       "status": "published",
       "image_count": 17
     },
+    "yuque:doc:283471290": {
+      "doc_id": 283471290,
+      "source_namespace": "mubuzhuanjing-ow8jw/sshmn5",
+      "source_slug": "hz36zdg49ikk9vd9",
+      "source_title": "第一章：算法引论",
+      "created_at": "2026-09-01T06:16:39.000Z",
+      "updated_at": "2026-09-15T06:17:17.000Z",
+      "content_hash": "e4823d1c04087b7492ff538c14a47ed214935669401dc3a6489df41dc9513ce2",
+      "target_path": "数据结构与算法/算法基础/2026-09-01-第一章：算法引论——算法基础与复杂度分析.md",
+      "status": "published",
+      "image_count": 11
+    },
     "yuque:doc:284361377": {
       "doc_id": 284361377,
       "source_namespace": "mubuzhuanjing-ow8jw/sshmn5",
       "source_slug": "rkifwon28bu1b4y9",
       "source_title": "Week1：Java Web 技术演进与单体应用基础",
       "created_at": "2026-09-08T02:10:32.000Z",
-      "updated_at": "2026-09-08T05:54:47.000Z",
-      "content_hash": "7befae8eedea8cdb7c22915fec19e24ed5baffab213cb655cdbe8d656e8b7cf5",
+      "updated_at": "2026-09-08T06:05:59.000Z",
+      "content_hash": "46b8575c8c846d9479d8a528591e53601919bebd1b6b85467ca74e3f12466564",
       "target_path": "计算机基础/微服务与分布式架构/2026-09-08-Week1：Java-Web技术演进与单体应用基础.md",
       "status": "published",
       "image_count": 0
+    },
+    "yuque:doc:284500692": {
+      "doc_id": 284500692,
+      "source_namespace": "mubuzhuanjing-ow8jw/sshmn5",
+      "source_slug": "xp6xin07s66ubkqo",
+      "source_title": "第一章：引论",
+      "created_at": "2026-09-09T02:16:27.000Z",
+      "updated_at": "2026-09-15T07:09:30.000Z",
+      "content_hash": "2ea6fee978c7c3bac5ee8fdf7d68730657838e2614cfca1cf3bb66175ecb4aa9",
+      "target_path": "计算机基础/软件工程/软件测试/2026-09-09-第一章：软件测试引论——基本概念与生命周期模型.md",
+      "status": "published",
+      "image_count": 2
     }
   }
 }
