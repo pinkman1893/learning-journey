@@ -2150,6 +2150,18 @@
       "target_path": "计算机基础/软件工程/软件测试/2026-09-09-第一章：软件测试引论——基本概念与生命周期模型.md",
       "status": "published",
       "image_count": 2
+    },
+    "yuque:doc:285252484": {
+      "doc_id": 285252484,
+      "source_namespace": "mubuzhuanjing-ow8jw/sshmn5",
+      "source_slug": "di44oqdotahg6o14",
+      "source_title": "第二章：软件测试基本概念",
+      "created_at": "2026-09-15T07:09:31.000Z",
+      "updated_at": "2026-09-16T17:28:46.000Z",
+      "content_hash": "ce6463a9a2ccb42d2592099d527b14e754ca067da9cc84e69d369a89e427fa77",
+      "target_path": "计算机基础/软件工程/软件测试/2026-09-15-第二章：软件测试基本概念.md",
+      "status": "published",
+      "image_count": 6
     }
   }
 }
