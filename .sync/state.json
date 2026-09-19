@@ -2174,6 +2174,18 @@
       "target_path": "计算机基础/微服务与分布式架构/2026-09-17-Week2：单体后端实现与微服务思想.md",
       "status": "published",
       "image_count": 2
+    },
+    "yuque:doc:285493670": {
+      "doc_id": 285493670,
+      "source_namespace": "mubuzhuanjing-ow8jw/sshmn5",
+      "source_slug": "fhta6wnavyaacsvm",
+      "source_title": "第二章：递归与分治",
+      "created_at": "2026-09-17T03:59:30.000Z",
+      "updated_at": "2026-09-19T12:21:15.000Z",
+      "content_hash": "4e3016524572ed51759a9105fdaf41d08efaabad87ed5012b81e8d3c87a1565a",
+      "target_path": "数据结构与算法/算法基础/2026-09-17-第二章：递归与分治.md",
+      "status": "published",
+      "image_count": 29
     }
   }
 }
