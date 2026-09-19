@@ -2186,6 +2186,18 @@
       "target_path": "数据结构与算法/算法基础/2026-09-17-第二章：递归与分治.md",
       "status": "published",
       "image_count": 29
+    },
+    "yuque:doc:285750219": {
+      "doc_id": 285750219,
+      "source_namespace": "mubuzhuanjing-ow8jw/sshmn5",
+      "source_slug": "fag9nwsrpzerg3wn",
+      "source_title": "第三章：软件测试流程与规范",
+      "created_at": "2026-09-19T12:24:58.000Z",
+      "updated_at": "2026-09-19T15:42:40.000Z",
+      "content_hash": "0cfd267f5f9746a5aada3ff99f9cfc789438c6c9d1f4da24d6aaeae48a534ef0",
+      "target_path": "计算机基础/软件工程/软件测试/2026-09-19-第三章：软件测试流程与规范.md",
+      "status": "published",
+      "image_count": 15
     }
   }
 }
